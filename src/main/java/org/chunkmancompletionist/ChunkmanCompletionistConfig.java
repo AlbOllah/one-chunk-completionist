@@ -1,12 +1,14 @@
-package com.example;
+package org.chunkmancompletionist;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup("example")
-public interface ExampleConfig extends Config
-{
+@ConfigGroup("chunkcompletionist")
+public interface ChunkmanCompletionistConfig extends Config {
+	String CONFIG_GROUP = "chunk-completionist";
+	String CONFIG_KEY = "tasks";
+
 	@ConfigItem(
 		keyName = "greeting",
 		name = "Welcome Greeting",
