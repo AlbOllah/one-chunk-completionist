@@ -35,14 +35,9 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 	private NavigationButton uiNavigationButton;
 	private boolean lastWorldWasMembers;
 
-	private ChunkmanCompletionistPanel panel;
-
 	@Override
 	protected void startUp() throws Exception {
 		final BufferedImage icon = ImageUtil.loadImageResource(HiscorePlugin.class, "hardcore_ironman.png");
-
-		panel = injector.getInstance(ChunkmanCompletionistPanel.class);
-		panel.init(client.getGameState() == GameState.LOGGED_IN);
 
 		uiNavigationButton = NavigationButton.builder()
 				.tooltip("Chunkman Completionist")
@@ -52,21 +47,19 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 				.build();
 
 		clientToolbar.addNavigation(uiNavigationButton);
-		log.info("Example started!");
 	}
 
 	@Override
 	protected void shutDown() throws Exception {
 		clientToolbar.removeNavigation(uiNavigationButton);
-		log.info("Example stopped!");
 	}
 
 	@Subscribe
 	public void onGameStateChanged(GameStateChanged gameStateChanged) {
 		if (gameStateChanged.getGameState() == GameState.LOGGED_IN) {
 			//client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "Example says " + config.greeting(), null);
-			chunkTasksManager.loadChunkTasks();
-
+			//chunkTasksManager.loadChunkTasks();
+			uiPanel.get().reload();
 		}
 	}
 

@@ -1,0 +1,165 @@
+{
+  "Access the novice lander for ~|Pest Control|~": {
+    "Chunks": [
+      "10537"
+    ],
+    "Level": 40,
+    "Primary": true,
+    "Priority": 2,
+    "NotF2P": true
+  },
+  "Access the intermediate lander for ~|Pest Control|~": {
+    "Category": [
+      "HigherLander"
+    ],
+    "Chunks": [
+      "10537"
+    ],
+    "Level": 70,
+    "Primary": true,
+    "Priority": 2,
+    "NotF2P": true
+  },
+  "Access the veteran lander for ~|Pest Control|~": {
+    "Category": [
+      "HigherLander"
+    ],
+    "Chunks": [
+      "10537"
+    ],
+    "Level": 100,
+    "Primary": true,
+    "Priority": 2,
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Chaeldar|~ in Zanaris": {
+    "Level": 70,
+    "NPCs": [
+      "Chaeldar"
+    ],
+    "Primary": true,
+    "Priority": 6,
+    "Skills": {
+      "Slayer": 1
+    },
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Duradel|~ in Shilo Village": {
+    "Level": 100,
+    "NPCs": [
+      "Duradel"
+    ],
+    "Primary": true,
+    "Priority": 9,
+    "Skills": {
+      "Slayer": 50
+    },
+    "Tasks": {
+      "~|Shilo Village|~ Complete the quest": "Quest"
+    },
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": {
+    "Level": 75,
+    "NPCs": [
+      "Konar quo Maten"
+    ],
+    "Primary": true,
+    "Priority": 7,
+    "Skills": {
+      "Slayer": 1
+    },
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": {
+    "Chunks": [
+      "12342-1",
+      "WildernessChunks[+]"
+    ],
+    "Level": 3,
+    "NPCs": [
+      "Krystilia"
+    ],
+    "Primary": true,
+    "Priority": 3,
+    "Skills": {
+      "Slayer": 1
+    },
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Mazchna|~ in Canifis": {
+    "Level": 20,
+    "NPCs": [
+      "Mazchna"
+    ],
+    "Primary": true,
+    "Priority": 4,
+    "Skills": {
+      "Slayer": 1
+    },
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Nieve|~ in Tree Gnome Stronghold": {
+    "Level": 85,
+    "NPCs": [
+      "Nieve"
+    ],
+    "Primary": true,
+    "Priority": 8,
+    "Skills": {
+      "Slayer": 1
+    },
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Spria|~ in Draynor Village": {
+    "Level": 3,
+    "NPCs": [
+      "Spria"
+    ],
+    "Primary": true,
+    "Priority": 2,
+    "Skills": {
+      "Slayer": 1
+    },
+    "Tasks": {
+      "~|A Porcine of Interest|~ Complete the quest": "Quest"
+    },
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Turael|~ in Burthorpe": {
+    "Level": 3,
+    "NPCs": [
+      "Turael"
+    ],
+    "Primary": true,
+    "Priority": 1,
+    "Skills": {
+      "Slayer": 1
+    },
+    "NotF2P": true
+  },
+  "Receive a Slayer assignment from ~|Vannaka|~ in Edgeville Dungeon": {
+    "Level": 40,
+    "NPCs": [
+      "Vannaka"
+    ],
+    "Primary": true,
+    "Priority": 5,
+    "Skills": {
+      "Slayer": 1
+    },
+    "NotF2P": true
+  },
+  "~|Dream Mentor|~ Combat skill requirement": {
+    "Category": [
+      "Quest Skill Reqs"
+    ],
+    "Chunks": [
+      "Lunar Isle mine"
+    ],
+    "Level": 85,
+    "Primary": false,
+    "Priority": 999,
+    "NotF2P": true
+  }
+}
