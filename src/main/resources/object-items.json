@@ -1,0 +1,309 @@
+{
+  "Achey Tree": {
+    "Achey tree logs": true
+  },
+  "Adamantite rocks": {
+    "Adamantite ore": true
+  },
+  "Adamantite vein": {
+    "Adamantite ore": true
+  },
+  "Amethyst crystals": {
+    "Amethyst": true
+  },
+  "Arctic pine tree": {
+    "Arctic pine logs": true
+  },
+  "Ash pile": {
+    "Soda ash": true,
+    "Volcanic ash": true
+  },
+  "Basalt rock (mining)": {
+    "Basalt": true
+  },
+  "Blisterwood Tree": {
+    "Blisterwood logs": true
+  },
+  "Blurite rocks": {
+    "Blurite ore": true
+  },
+  "Clay rocks": {
+    "Clay": true
+  },
+  "Clay vein": {
+    "Clay": true
+  },
+  "Coal rocks": {
+    "Coal": true
+  },
+  "Coal vein": {
+    "Coal": true
+  },
+  "Copper rocks": {
+    "Copper ore": true
+  },
+  "Copper vein": {
+    "Copper ore": true
+  },
+  "Crystal outcrop": {
+    "Salve shard": true
+  },
+  "Daeyalt Essence rock": {
+    "Daeyalt essence": true
+  },
+  "Dead tree": {
+    "Logs": true
+  },
+  "Dense runestone": {
+    "Dense essence block": true
+  },
+  "Dying tree": {
+    "Logs": true
+  },
+  "Efh salt rock": {
+    "Efh salt": true
+  },
+  "Evegreen": {
+    "Logs": true
+  },
+  "Evergreen tree": {
+    "Bucket of sap": true
+  },
+  "Fishing spot (Camdozaal)": {
+    "Raw guppy": true,
+    "Raw cavefish": true,
+    "Raw tetra": true,
+    "Raw catfish": true
+  },
+  "Fishing spot (Civitas illa Fortis)": {
+    "Old boot": {
+      "1": "Common"
+    },
+    "Broken glass": {
+      "1": "Common"
+    },
+    "Big fishing net": {
+      "1": "Common"
+    },
+    "Casket": {
+      "1": "Common"
+    },
+    "House keys": {
+      "1": "Uncommon"
+    },
+    "Jade": {
+      "1": "Rare"
+    },
+    "Red topaz": {
+      "1": "Rare"
+    }
+  },
+  "Fishing spot (Piscatoris Fishing Colony)": {
+    "Raw monkfish": true,
+    "Raw swordfish": true,
+    "Raw tuna": true,
+    "Big swordfish": true
+  },
+  "Fishing spot (Tempoross Cove)": {
+    "Raw harpoonfish": true
+  },
+  "Fishing spot (aerial fishing)": {
+    "Bluegill": true,
+    "Common tench": true,
+    "Greater siren": true,
+    "Mottled eel": true
+  },
+  "Fishing spot (anglerfish)": {
+    "Raw anglerfish": true
+  },
+  "Fishing spot (barbarian)": {
+    "Leaping salmon": true,
+    "Leaping sturgeon": true,
+    "Leaping trout": true
+  },
+  "Fishing spot (big net, harpoon)": {
+    "Casket": true,
+    "Raw bass": true,
+    "Raw cod": true,
+    "Raw mackerel": true,
+    "Raw shark": true,
+    "Seaweed": true,
+    "Big bass": true,
+    "Big shark": true
+  },
+  "Fishing spot (cage, harpoon)": {
+    "Raw lobster": true,
+    "Raw swordfish": true,
+    "Raw tuna": true,
+    "Big swordfish": true
+  },
+  "Fishing spot (dark crab)": {
+    "Raw dark crab": true
+  },
+  "Fishing spot (frogspawn)": {
+    "Frog spawn": true,
+    "Raw cave eel": true,
+    "Raw slimy eel": true
+  },
+  "Fishing spot (karambwan)": {
+    "Raw karambwan": true
+  },
+  "Fishing spot (karambwanji)": {
+    "Raw karambwanji": true,
+    "Raw shrimps": true
+  },
+  "Fishing spot (lava eel)": {
+    "Raw lava eel": true
+  },
+  "Fishing spot (minnow)": {
+    "Raw shark": true
+  },
+  "Fishing spot (sacred eel)": {
+    "Sacred eel": true
+  },
+  "Fishing spot (small net, bait)": {
+    "Raw anchovies": true,
+    "Raw herring": true,
+    "Raw sardine": true,
+    "Raw shrimps": true
+  },
+  "Fishing spot (swamp)": {
+    "Raw cave eel": true,
+    "Raw slimy eel": true
+  },
+  "Gem rocks": {
+    "Uncut diamond": true,
+    "Uncut emerald": true,
+    "Uncut jade": true,
+    "Uncut opal": true,
+    "Uncut red topaz": true,
+    "Uncut ruby": true,
+    "Uncut sapphire": true
+  },
+  "Gold rocks": {
+    "Gold ore": true
+  },
+  "Granite rocks": {
+    "Granite": true
+  },
+  "Hard rock": {
+    "Adamantite ore": true,
+    "Coal": true,
+    "Gold ore": true,
+    "Mithril ore": true,
+    "Runite ore": true
+  },
+  "Hollow tree": {
+    "Bark": true
+  },
+  "Iron rocks": {
+    "Iron ore": true
+  },
+  "Iron vein": {
+    "Iron ore": true
+  },
+  "Jungle tree": {
+    "Logs": true
+  },
+  "Lovakite rocks": {
+    "Lovakite ore": true
+  },
+  "Magic tree": {
+    "Magic logs": true
+  },
+  "Mahogany tree": {
+    "Mahogany logs": true
+  },
+  "Maple tree": {
+    "Maple logs": true
+  },
+  "Mature juniper tree": {
+    "Juniper logs": true
+  },
+  "Mineral vein": {
+    "Gold ore": true
+  },
+  "Mithril rocks": {
+    "Mithril ore": true
+  },
+  "Mithril vein": {
+    "Mithril ore": true
+  },
+  "Oak tree": {
+    "Oak logs": true
+  },
+  "Ore vein": {
+    "Adamantite ore": true,
+    "Coal": true,
+    "Gold ore": true,
+    "Mithril ore": true,
+    "Runite ore": true
+  },
+  "Pile of Rock": {
+    "Limestone": true
+  },
+  "Pile of Rock (elemental)": {
+    "Rock (elemental)": true
+  },
+  "Redwood tree": {
+    "Redwood logs": true
+  },
+  "Fishing spot (infernal eel)": {
+    "Lava scale shard": true,
+    "Onyx bolt tips": true
+  },
+  "Fishing spot (lure, bait)": {
+    "Raw pike": true,
+    "Raw rainbow fish": true,
+    "Raw salmon": true,
+    "Raw trout": true
+  },
+  "Rune Essence rock": {
+    "Pure essence": true,
+    "Rune essence": true
+  },
+  "Runite rocks": {
+    "Runite ore": true
+  },
+  "Sandstone rocks": {
+    "Sandstone": true
+  },
+  "Silver rocks": {
+    "Silver ore": true
+  },
+  "Soft clay rocks": {
+    "Soft clay": true
+  },
+  "Sulliuscep": {
+    "Mort myre fungus": true,
+    "Mushroom": true,
+    "Sulliuscep cap": true
+  },
+  "Te salt rock": {
+    "Te salt": true
+  },
+  "Teak tree": {
+    "Teak logs": true
+  },
+  "Tin rocks": {
+    "Tin ore": true
+  },
+  "Tin vein": {
+    "Tin ore": true
+  },
+  "Tree": {
+    "Logs": true
+  },
+  "Urt salt rock": {
+    "Urt salt": true
+  },
+  "Volcanic sulphur rock": {
+    "Volcanic sulphur": true
+  },
+  "Willow tree": {
+    "Willow logs": true
+  },
+  "Yew tree": {
+    "Yew logs": true
+  }
+}

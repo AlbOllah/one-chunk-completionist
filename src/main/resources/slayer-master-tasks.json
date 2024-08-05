@@ -1,0 +1,2140 @@
+{
+  "Turael": {
+    "Banshees": {
+      "CombatLevel": 20,
+      "Level": 15,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Bats": {
+      "CombatLevel": 5,
+      "Weight": 7
+    },
+    "Birds": {
+      "Weight": 6
+    },
+    "Bears": {
+      "CombatLevel": 13,
+      "Weight": 7
+    },
+    "Cave bugs": {
+      "Level": 7,
+      "Weight": 8
+    },
+    "Cave crawlers": {
+      "CombatLevel": 10,
+      "Level": 10,
+      "Weight": 8
+    },
+    "Cave slimes": {
+      "CombatLevel": 15,
+      "Level": 17,
+      "Weight": 8
+    },
+    "Cows": {
+      "CombatLevel": 5,
+      "Weight": 8
+    },
+    "Crawling Hands": {
+      "Level": 5,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Dogs": {
+      "CombatLevel": 15,
+      "Weight": 7
+    },
+    "Dwarves": {
+      "CombatLevel": 6,
+      "Weight": 7
+    },
+    "Ghosts": {
+      "CombatLevel": 13,
+      "Weight": 7
+    },
+    "Goblins": {
+      "Weight": 7
+    },
+    "Icefiends": {
+      "CombatLevel": 20,
+      "Weight": 8
+    },
+    "Kalphites": {
+      "CombatLevel": 15,
+      "Weight": 6
+    },
+    "Lizards": {
+      "Level": 22,
+      "Weight": 8
+    },
+    "Minotaurs": {
+      "CombatLevel": 7,
+      "Weight": 7
+    },
+    "Monkeys": {
+      "Weight": 6
+    },
+    "Rats": {
+      "Weight": 7
+    },
+    "Scorpions": {
+      "CombatLevel": 7,
+      "Weight": 7
+    },
+    "Skeletons": {
+      "CombatLevel": 15,
+      "Weight": 7
+    },
+    "Spiders": {
+      "Weight": 6
+    },
+    "Wolves": {
+      "CombatLevel": 20,
+      "Weight": 7
+    },
+    "Zombies": {
+      "CombatLevel": 10,
+      "Weight": 7
+    }
+  },
+  "Spria": {
+    "Banshees": {
+      "CombatLevel": 20,
+      "Level": 15,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Bats": {
+      "CombatLevel": 5,
+      "Weight": 7
+    },
+    "Birds": {
+      "Weight": 6
+    },
+    "Bears": {
+      "CombatLevel": 13,
+      "Weight": 7
+    },
+    "Cave bugs": {
+      "Level": 7,
+      "Weight": 8
+    },
+    "Cave crawlers": {
+      "CombatLevel": 10,
+      "Level": 10,
+      "Weight": 8
+    },
+    "Cave slimes": {
+      "CombatLevel": 15,
+      "Level": 17,
+      "Weight": 8
+    },
+    "Cows": {
+      "CombatLevel": 5,
+      "Weight": 8
+    },
+    "Crawling Hands": {
+      "Level": 5,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Dogs": {
+      "CombatLevel": 15,
+      "Weight": 7
+    },
+    "Dwarves": {
+      "CombatLevel": 6,
+      "Weight": 7
+    },
+    "Ghosts": {
+      "CombatLevel": 13,
+      "Weight": 7
+    },
+    "Goblins": {
+      "Weight": 7
+    },
+    "Icefiends": {
+      "CombatLevel": 20,
+      "Weight": 8
+    },
+    "Kalphites": {
+      "CombatLevel": 15,
+      "Weight": 6
+    },
+    "Lizards": {
+      "Level": 22,
+      "Weight": 8
+    },
+    "Minotaurs": {
+      "CombatLevel": 7,
+      "Weight": 7
+    },
+    "Monkeys": {
+      "Weight": 6
+    },
+    "Rats": {
+      "Weight": 7
+    },
+    "Scorpions": {
+      "CombatLevel": 7,
+      "Weight": 7
+    },
+    "Skeletons": {
+      "CombatLevel": 15,
+      "Weight": 7
+    },
+    "Sourhogs": {
+      "Tasks": {
+        "~|A Porcine of Interest|~ Complete the quest": "Quest"
+      },
+      "Weight": 6
+    },
+    "Spiders": {
+      "Weight": 6
+    },
+    "Wolves": {
+      "CombatLevel": 20,
+      "Weight": 7
+    },
+    "Zombies": {
+      "CombatLevel": 10,
+      "Weight": 7
+    }
+  },
+  "Krystilia": {
+    "Abyssal demons": {
+      "Chunks": ["Wilderness Slayer Cave"],
+      "Level": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "KrystiliaSlayerCreatures": true,
+      "Weight": 5
+    },
+    "Ankous": {
+      "Chunks": ["AnkousWildernessTask[+]"],
+      "Weight": 6
+    },
+    "Bandits": {
+      "Chunks": ["12089"],
+      "Weight": 4
+    },
+    "Bears": {
+      "Chunks": ["BearsWildernessTask[+]"],
+      "Weight": 6
+    },
+    "Black demons": {
+      "Chunks": ["BlackdemonsWildernessTask[+]"],
+      "Weight": 7
+    },
+    "Black dragons": {
+      "Chunks": ["BlackdragonsWildernessTask[+]"],
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 4
+    },
+    "Black Knights": {
+      "Chunks": ["BlackKnightsWildernessTask[+]"],
+      "Weight": 3
+    },
+    "Bloodvelds": {
+      "Chunks": ["Wilderness God Wars Dungeon"],
+      "Level": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 4
+    },
+    "Chaos druids": {
+      "Chunks": ["ChaosdruidsWildernessTask[+]"],
+      "Weight": 5
+    },
+    "Dark warriors": {
+      "Chunks": ["12088"],
+      "Weight": 4
+    },
+    "Dust devils": {
+      "Chunks": ["Wilderness Slayer Cave"],
+      "Level": 65,
+      "Tasks": {
+        "~|Desert Treasure I|~ 7c1": "Quest"
+      },
+      "KrystiliaSlayerCreatures": true,
+      "Weight": 5
+    },
+    "Earth warriors": {
+      "Chunks": ["Edgeville Dungeon#Wilderness"],
+      "Weight": 6
+    },
+    "Ents": {
+      "Chunks": ["EntsWildernessTask[+]"],
+      "Weight": 5
+    },
+    "Fire giants": {
+      "Chunks": ["Deep Wilderness Dungeon"],
+      "Weight": 7
+    },
+    "Greater demons": {
+      "Chunks": ["GreaterDemonsWildernessTask[+]"],
+      "Weight": 8
+    },
+    "Green dragons": {
+      "Chunks": ["GreendragonsWildernessTask[+]"],
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 4
+    },
+    "Hellhounds": {
+      "Chunks": ["HellhoundsWildernessTask[+]"],
+      "Weight": 7
+    },
+    "Hill Giants": {
+      "Chunks": ["HillGiantsWildernessTask[+]"],
+      "Weight": 3
+    },
+    "Ice giants": {
+      "Chunks": ["IcegiantsWildernessTask[+]"],
+      "Weight": 6
+    },
+    "Ice warriors": {
+      "Chunks": ["IcewarriorsWildernessTask[+]"],
+      "Weight": 7
+    },
+    "Jellies": {
+      "Chunks": ["Wilderness Slayer Cave"],
+      "Level": 52,
+      "KrystiliaSlayerCreatures": true,
+      "Weight": 5
+    },
+    "Lava dragons": {
+      "Chunks": ["LavadragonsWildernessTask[+]"],
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 3
+    },
+    "Lesser demons": {
+      "Chunks": ["LesserdemonsWildernessTask[+]"],
+      "Weight": 6
+    },
+    "Magic axes": {
+      "Chunks": ["12605"],
+      "Tasks": {
+        "Unlock the ~|door (Magic axe hut)|~": "Thieving"
+      },
+      "Weight": 7
+    },
+    "Mammoths": {
+      "Chunks": ["12600"],
+      "Weight": 6
+    },
+    "Moss giants": {
+      "Chunks": ["12603"],
+      "Weight": 4
+    },
+    "Nechryaels": {
+      "Chunks": ["Wilderness Slayer Cave"],
+      "Level": 80,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "KrystiliaSlayerCreatures": true,
+      "Weight": 5
+    },
+    "Pirates": {
+      "Chunks": ["PiratesWildernessTask[+]"],
+      "Tasks": {
+        "WildernessPirateAccess[+]": "Nonskill"
+      },
+      "Weight": 3
+    },
+    "Revenants": {
+      "Chunks": ["Revenant Caves"],
+      "Weight": 5
+    },
+    "Rogues": {
+      "Chunks": ["RoguesWildernessTask[+]"],
+      "Weight": 5
+    },
+    "Scorpions": {
+      "Chunks": ["ScorpionsWildernessTask[+]"],
+      "Weight": 6
+    },
+    "Skeletons": {
+      "Chunks": ["SkeletonsWildernessTask[+]"],
+      "Weight": 5
+    },
+    "Spiders": {
+      "Chunks": ["SpidersWildernessTask[+]"],
+      "Weight": 6
+    },
+    "Spiritual creatures": {
+      "Chunks": ["Wilderness God Wars Dungeon"],
+      "Level": 63,
+      "Tasks": {
+        "~|Death Plateau|~ Complete the quest": "Quest"
+      },
+      "Weight": 6
+    },
+    "Zombies": {
+      "Chunks": ["ZombiesWildernessTask[+]"],
+      "Weight": 3
+    }
+  },
+  "Mazchna": {
+    "Banshees": {
+      "Level": 15,
+      "CombatLevel": 20,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Bats": {
+      "CombatLevel": 5,
+      "Weight": 7
+    },
+    "Bears": {
+      "CombatLevel": 13,
+      "Weight": 6
+    },
+    "Catablepon": {
+      "CombatLevel": 35,
+      "Weight": 8
+    },
+    "Cave bugs": {
+      "Level": 7,
+      "Weight": 8
+    },
+    "Cave crawlers": {
+      "Level": 10,
+      "CombatLevel": 10,
+      "Weight": 8
+    },
+    "Cave slimes": {
+      "Level": 17,
+      "CombatLevel": 15,
+      "Weight": 8
+    },
+    "Cockatrices": {
+      "Level": 25,
+      "CombatLevel": 25,
+      "Skills": {
+        "Defence": 20
+      },
+      "Weight": 8
+    },
+    "Crawling Hands": {
+      "Level": 5,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Lizards": {
+      "Level": 22,
+      "Weight": 8
+    },
+    "Dogs": {
+      "CombatLevel": 15,
+      "Weight": 7
+    },
+    "Flesh Crawlers": {
+      "CombatLevel": 15,
+      "Weight": 7
+    },
+    "Ghosts": {
+      "CombatLevel": 13,
+      "Weight": 7
+    },
+    "Ghouls": {
+      "CombatLevel": 25,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Hill Giants": {
+      "CombatLevel": 25,
+      "Weight": 7
+    },
+    "Hobgoblins": {
+      "CombatLevel": 20,
+      "Weight": 7
+    },
+    "Ice warriors": {
+      "CombatLevel": 45,
+      "Weight": 7
+    },
+    "Kalphites": {
+      "CombatLevel": 15,
+      "Weight": 6
+    },
+    "Killerwatts": {
+      "Level": 37,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Ernest the Chicken|~ Complete the quest": "Quest"
+      },
+      "Weight": 6
+    },
+    "Mogres": {
+      "Level": 32,
+      "CombatLevel": 30,
+      "Tasks": {
+        "~|Skippy and the Mogres|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Pyrefiends": {
+      "Level": 30,
+      "CombatLevel": 25,
+      "Weight": 8
+    },
+    "Rockslugs": {
+      "Level": 20,
+      "CombatLevel": 20,
+      "Weight": 8
+    },
+    "Scorpions": {
+      "CombatLevel": 7,
+      "Weight": 7
+    },
+    "Shades": {
+      "CombatLevel": 30,
+      "Weight": 8
+    },
+    "Skeletons": {
+      "CombatLevel": 15,
+      "Weight": 7
+    },
+    "Vampyres": {
+      "CombatLevel": 35,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 6
+    },
+    "Wall beasts": {
+      "Level": 35,
+      "CombatLevel": 30,
+      "Skills": {
+        "Defence": 5
+      },
+      "Weight": 7
+    },
+    "Wolves": {
+      "CombatLevel": 20,
+      "Weight": 7
+    },
+    "Zombies": {
+      "CombatLevel": 10,
+      "Weight": 7
+    }
+  },
+  "Vannaka": {
+    "Aberrant spectres": {
+      "Level": 60,
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Abyssal demons": {
+      "Level": 85,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Ankous": {
+      "CombatLevel": 40,
+      "Weight": 7
+    },
+    "Basilisks": {
+      "Level": 15,
+      "CombatLevel": 40,
+      "Skills": {
+        "Defence": 20
+      },
+      "Weight": 7
+    },
+    "Bloodvelds": {
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Blue dragons": {
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 7
+    },
+    "Brine rats": {
+      "Level": 47,
+      "CombatLevel": 45,
+      "Tasks": {
+        "~|Olaf's Quest|~ 5": "Quest"
+      },
+      "Weight": 7
+    },
+    "Cockatrices": {
+      "Level": 25,
+      "CombatLevel": 25,
+      "Skills": {
+        "Defence": 20
+      },
+      "Weight": 7
+    },
+    "Crocodiles": {
+      "CombatLevel": 50,
+      "Weight": 7
+    },
+    "Dagannoths": {
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Dust devils": {
+      "Level": 65,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Desert Treasure I|~ 7c1": "Quest"
+      },
+      "Weight": 7
+    },
+    "Elves": {
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Regicide|~ 3": "Quest"
+      },
+      "Weight": 7
+    },
+    "Fever spiders": {
+      "Level": 42,
+      "CombatLevel": 40,
+      "Tasks": {
+        "~|Rum Deal|~ 3": "Quest"
+      },
+      "Weight": 7
+    },
+    "Fire giants": {
+      "CombatLevel": 65,
+      "Weight": 7
+    },
+    "Gargoyles": {
+      "Level": 75,
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Ghouls": {
+      "CombatLevel": 25,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Harpie bug swarms": {
+      "Level": 33,
+      "CombatLevel": 45,
+      "Skills": {
+        "Firemaking": 33
+      },
+      "Weight": 7
+    },
+    "Hellhounds": {
+      "CombatLevel": 75,
+      "Weight": 7
+    },
+    "Hill Giants": {
+      "CombatLevel": 25,
+      "Weight": 7
+    },
+    "Hobgoblins": {
+      "CombatLevel": 20,
+      "Weight": 7
+    },
+    "Ice giants": {
+      "CombatLevel": 50,
+      "Weight": 7
+    },
+    "Ice warriors": {
+      "CombatLevel": 35,
+      "Weight": 7
+    },
+    "Infernal Mages": {
+      "Level": 45,
+      "CombatLevel": 40,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Jellies": {
+      "Level": 52,
+      "CombatLevel": 57,
+      "Weight": 7
+    },
+    "Jungle horrors": {
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Cabin Fever|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Kalphites": {
+      "CombatLevel": 15,
+      "Weight": 7
+    },
+    "Kurasks": {
+      "Level": 70,
+      "CombatLevel": 65,
+      "Weight": 7
+    },
+    "Lesser demons": {
+      "CombatLevel": 60,
+      "Weight": 7
+    },
+    "Mogres": {
+      "Level": 32,
+      "CombatLevel": 30,
+      "Tasks": {
+        "~|Skippy and the Mogres|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Molanisks": {
+      "Level": 39,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Death to the Dorgeshuun|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Moss giants": {
+      "CombatLevel": 40,
+      "Weight": 7
+    },
+    "Nechryaels": {
+      "Level": 80,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Ogres": {
+      "CombatLevel": 40,
+      "Weight": 7
+    },
+    "Otherworldly beings": {
+      "CombatLevel": 40,
+      "Tasks": {
+        "~|Lost City|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Pyrefiends": {
+      "Level": 30,
+      "CombatLevel": 25,
+      "Weight": 7
+    },
+    "Shades": {
+      "CombatLevel": 30,
+      "Weight": 7
+    },
+    "Sea snakes": {
+      "Level": 40,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Royal Trouble|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Shadow warriors": {
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Legends' Quest|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Spiritual creatures": {
+      "Level": 63,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Death Plateau|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Terror dogs": {
+      "Level": 40,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Haunted Mine|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Trolls": {
+      "CombatLevel": 60,
+      "Weight": 7
+    },
+    "Turoths": {
+      "Level": 55,
+      "CombatLevel": 60,
+      "Weight": 7
+    },
+    "Vampyres": {
+      "CombatLevel": 35,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Werewolves": {
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    }
+  },
+  "Chaeldar": {
+    "Aberrant spectres": {
+      "Level": 60,
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Abyssal demons": {
+      "Level": 85,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 12
+    },
+    "Basilisks": {
+      "Level": 40,
+      "CombatLevel": 40,
+      "Skills": {
+        "Defence": 20
+      },
+      "Weight": 7
+    },
+    "Black demons": {
+      "CombatLevel": 80,
+      "Weight": 10
+    },
+    "Bloodvelds": {
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Blue dragons": {
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 8
+    },
+    "Brine rats": {
+      "Level": 47,
+      "CombatLevel": 45,
+      "Tasks": {
+        "~|Olaf's Quest|~ 5": "Quest"
+      },
+      "Weight": 7
+    },
+    "Cave horrors": {
+      "Level": 58,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Cabin Fever|~ Complete the quest": "Quest"
+      },
+      "Weight": 10
+    },
+    "Cave krakens": {
+      "Level": 87,
+      "CombatLevel": 80,
+      "Skills": {
+        "Magic": 50
+      },
+      "Weight": 12
+    },
+    "Dagannoths": {
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      },
+      "Weight": 11
+    },
+    "Dust devils": {
+      "Level": 65,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Desert Treasure I|~ 7c1": "Quest"
+      },
+      "Weight": 9
+    },
+    "Elves": {
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Regicide|~ 3": "Quest"
+      },
+      "Weight": 8
+    },
+    "Fever spiders": {
+      "Level": 42,
+      "CombatLevel": 40,
+      "Tasks": {
+        "~|Rum Deal|~ 3": "Quest"
+      },
+      "Weight": 7
+    },
+    "Fire giants": {
+      "CombatLevel": 65,
+      "Weight": 12
+    },
+    "Fossil Island Wyverns": {
+      "Level": 66,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Bone Voyage|~ Complete the quest": "Quest",
+        "~|Elemental Workshop I|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Gargoyles": {
+      "Level": 75,
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 11
+    },
+    "Greater demons": {
+      "CombatLevel": 70,
+      "Weight": 9
+    },
+    "Hellhounds": {
+      "CombatLevel": 75,
+      "Weight": 9
+    },
+    "Jellies": {
+      "Level": 52,
+      "CombatLevel": 57,
+      "Weight": 10
+    },
+    "Jungle horrors": {
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Cabin Fever|~ Complete the quest": "Quest"
+      },
+      "Weight": 10
+    },
+    "Kalphites": {
+      "CombatLevel": 15,
+      "Weight": 11
+    },
+    "Kurasks": {
+      "Level": 70,
+      "CombatLevel": 65,
+      "Weight": 12
+    },
+    "Lesser demons": {
+      "CombatLevel": 60,
+      "Weight": 9
+    },
+    "Lesser Nagua": {
+      "Level": 48,
+      "Tasks": {
+        "~|Perilous Moons|~ Complete the quest": "Quest"
+      },
+      "Weight": 4
+    },
+    "Zygomites": {
+      "Level": 57,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Lost City|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Nechryaels": {
+      "Level": 80,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 12
+    },
+    "Shadow warriors": {
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Legends' Quest|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Skeletal Wyverns": {
+      "Level": 72,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Elemental Workshop I|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Spiritual creatures": {
+      "Level": 63,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Death Plateau|~ Complete the quest": "Quest"
+      },
+      "Weight": 12
+    },
+    "Trolls": {
+      "CombatLevel": 60,
+      "Weight": 11
+    },
+    "Turoths": {
+      "Level": 55,
+      "CombatLevel": 60,
+      "Weight": 10
+    },
+    "Wyrms": {
+      "Level": 62,
+      "Weight": 6
+    }
+  },
+  "Konar quo Maten": {
+    "Aberrant spectres - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "Level": 60,
+      "CombatLevel": 65,
+      "Weight": 2
+    },
+    "Aberrant spectres - Slayer Tower": {
+      "Chunks": ["Slayer Tower Task[+]"],
+      "Level": 60,
+      "CombatLevel": 65,
+      "Weight": 2
+    },
+    "Aberrant spectres - Stronghold Slayer Cave": {
+      "Chunks": ["Stronghold Slayer Cave"],
+      "Level": 60,
+      "CombatLevel": 65,
+      "Weight": 2
+    },
+    "Abyssal demons - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "Level": 85,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 3
+    },
+    "Abyssal demons - Abyss": {
+      "Chunks": ["Abyss Task[+]"],
+      "Level": 85,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 3
+    },
+    "Abyssal demons - Slayer Tower": {
+      "Chunks": ["Slayer Tower Task[+]"],
+      "Level": 85,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 3
+    },
+    "Adamant dragons - Lithkren Vault": {
+      "Chunks": ["Lithkren Vault"],
+      "Tasks": {
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    },
+    "Ankous - Stronghold of Security": {
+      "Chunks": ["Stronghold of Security"],
+      "CombatLevel": 40,
+      "Weight": 1.67
+    },
+    "Ankous - Stronghold Slayer Cave": {
+      "Chunks": ["Stronghold Slayer Cave"],
+      "CombatLevel": 40,
+      "Weight": 1.67
+    },
+    "Ankous - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 40,
+      "Weight": 1.67
+    },
+    "Black demons - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 80,
+      "Weight": 2.25
+    },
+    "Black demons - Chasm of Fire": {
+      "Chunks": ["Chasm of Fire"],
+      "CombatLevel": 80,
+      "Weight": 2.25
+    },
+    "Black demons - Taverley Dungeon": {
+      "Chunks": ["Taverley Dungeon"],
+      "CombatLevel": 80,
+      "Weight": 2.25
+    },
+    "Black demons - Brimhaven Dungeon": {
+      "Chunks": ["Brimhaven Dungeon"],
+      "CombatLevel": 80,
+      "Weight": 2.25
+    },
+    "Black dragons - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "Level": 77,
+      "CombatLevel": 100,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Black dragons - Myth's Guild#Basement": {
+      "Chunks": ["Myth's Guild#Basement"],
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Black dragons - Evil Chicken's Lair": {
+      "Chunks": ["Evil Chicken's Lair"],
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Black dragons - Taverley Dungeon": {
+      "Chunks": ["Taverley Dungeon"],
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Bloodvelds - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Bloodvelds - God Wars Dungeon": {
+      "Chunks": ["God Wars Dungeon"],
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Bloodvelds - Iorwerth Dungeon": {
+      "Chunks": ["Iorwerth Dungeon"],
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest",
+        "~|Song of the Elves|~ Complete the quest": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Bloodvelds - Meiyerditch Laboratories": {
+      "Chunks": ["Meiyerditch Laboratories"],
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Bloodvelds - Slayer Tower": {
+      "Chunks": ["Slayer Tower Task[+]"],
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Bloodvelds - Stronghold Slayer Cave": {
+      "Chunks": ["Stronghold Slayer Cave"],
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Blue dragons - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 100,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 0.8
+    },
+    "Blue dragons - Isle of Souls Dungeon": {
+      "Chunks": ["Isle of Souls Dungeon"],
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 0.8
+    },
+    "Blue dragons - Myth's Guild#Basement": {
+      "Chunks": ["Myth's Guild#Basement"],
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 0.8
+    },
+    "Blue dragons - Ogre Enclave": {
+      "Chunks": ["Ogre Enclave"],
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 0.8
+    },
+    "Blue dragons - Taverley Dungeon": {
+      "Chunks": ["Taverley Dungeon"],
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 0.8
+    },
+    "Brine rats - Brine Rat Cavern": {
+      "Chunks": ["Brine Rat Cavern"],
+      "Level": 47,
+      "CombatLevel": 45,
+      "Tasks": {
+        "~|Olaf's Quest|~ 5": "Quest"
+      },
+      "Weight": 2
+    },
+    "Bronze dragons - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 2.5
+    },
+    "Bronze dragons - Brimhaven Dungeon": {
+      "Chunks": ["Brimhaven Dungeon"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 2.5
+    },
+    "Cave krakens - Kraken Cove": {
+      "Chunks": ["Kraken Cove"],
+      "Level": 87,
+      "CombatLevel": 80,
+      "Skills": {
+        "Magic": 50
+      },
+      "Weight": 9
+    },
+    "Dagannoths - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Dagannoths - Lighthouse#Dungeon": {
+      "Chunks": ["Lighthouse#Dungeon"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Dagannoths - Waterbirth Island Dungeon": {
+      "Chunks": ["Waterbirth Island Dungeon"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Dagannoths - Jormungand's Prison": {
+      "Chunks": ["Jormungand's Prison"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Dark beasts - Mourner Tunnels": {
+      "Chunks": ["Mourner Tunnels & Temple of Light"],
+      "Level": 90,
+      "CombatLevel": 90,
+      "Tasks": {
+        "~|Mourning's End Part II|~ 2": "Quest"
+      },
+      "Weight": 2.5
+    },
+    "Dark beasts - Iorwerth Dungeon": {
+      "Chunks": ["Iorwerth Dungeon"],
+      "Level": 90,
+      "CombatLevel": 90,
+      "Tasks": {
+        "~|Mourning's End Part II|~ 2": "Quest",
+        "~|Song of the Elves|~ Complete the quest": "Quest"
+      },
+      "Weight": 2.5
+    },
+    "Drakes - Karuulm Slayer Dungeon": {
+      "Chunks": ["Karuulm Slayer Dungeon"],
+      "Level": 84,
+      "Weight": 10
+    },
+    "Dust devils - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "Level": 65,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Desert Treasure I|~ 7c1": "Quest"
+      },
+      "Weight": 3
+    },
+    "Dust devils - Smoke Dungeon": {
+      "Chunks": ["Smoke Dungeon"],
+      "Level": 65,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Desert Treasure I|~ 7c1": "Quest"
+      },
+      "Weight": 3
+    },
+    "Fire giants - Brimhaven Dungeon": {
+      "Chunks": ["Brimhaven Dungeon"],
+      "CombatLevel": 65,
+      "Weight": 1.29
+    },
+    "Fire giants - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 65,
+      "Weight": 1.29
+    },
+    "Fire giants - Isle of Souls Dungeon": {
+      "Chunks": ["Isle of Souls Dungeon"],
+      "CombatLevel": 65,
+      "Weight": 1.29
+    },
+    "Fire giants - Giants' Den": {
+      "Chunks": ["Giants' Den"],
+      "CombatLevel": 65,
+      "Weight": 1.29
+    },
+    "Fire giants - Karuulm Slayer Dungeon": {
+      "Chunks": ["Karuulm Slayer Dungeon"],
+      "CombatLevel": 65,
+      "Weight": 1.29
+    },
+    "Fire giants - Stronghold Slayer Cave": {
+      "Chunks": ["Stronghold Slayer Cave"],
+      "CombatLevel": 65,
+      "Weight": 1.29
+    },
+    "Fire giants - Waterfall Dungeon": {
+      "Chunks": ["Waterfall Dungeon"],
+      "CombatLevel": 65,
+      "Weight": 1.29
+    },
+    "Fossil Island Wyverns - Wyvern Cave": {
+      "Chunks": ["Wyvern Cave Task[+]"],
+      "Level": 66,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Bone Voyage|~ Complete the quest": "Quest",
+        "~|Elemental Workshop I|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    },
+    "Gargoyles - Slayer Tower": {
+      "Chunks": ["Slayer Tower Task[+]"],
+      "Level": 75,
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Greater demons - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 75,
+      "Weight": 1.4
+    },
+    "Greater demons - Chasm of Fire": {
+      "Chunks": ["Chasm of Fire"],
+      "CombatLevel": 75,
+      "Weight": 1.4
+    },
+    "Greater demons - Isle of Souls Dungeon": {
+      "Chunks": ["Isle of Souls Dungeon"],
+      "CombatLevel": 75,
+      "Weight": 1.4
+    },
+    "Greater demons - Karuulm Slayer Dungeon": {
+      "Chunks": ["Karuulm Slayer Dungeon"],
+      "CombatLevel": 75,
+      "Weight": 1.4
+    },
+    "Greater demons - Brimhaven Dungeon": {
+      "Chunks": ["Brimhaven Dungeon"],
+      "CombatLevel": 75,
+      "Weight": 1.4
+    },
+    "Hellhounds - Karuulm Slayer Dungeon": {
+      "Chunks": ["Karuulm Slayer Dungeon"],
+      "CombatLevel": 75,
+      "Weight": 1.6
+    },
+    "Hellhounds - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 75,
+      "Weight": 1.6
+    },
+    "Hellhounds - Stronghold Slayer Cave": {
+      "Chunks": ["Stronghold Slayer Cave"],
+      "CombatLevel": 75,
+      "Weight": 1.6
+    },
+    "Hellhounds - Taverley Dungeon": {
+      "Chunks": ["Taverley Dungeon"],
+      "CombatLevel": 75,
+      "Weight": 1.6
+    },
+    "Hellhounds - Witchaven Dungeon": {
+      "Chunks": ["Witchaven Dungeon"],
+      "CombatLevel": 75,
+      "Weight": 1.6
+    },
+    "Hydras - Karuulm Slayer Dungeon": {
+      "Chunks": ["Karuulm Slayer Dungeon"],
+      "Level": 95,
+      "Weight": 10
+    },
+    "Iron dragons - Brimhaven Dungeon": {
+      "Chunks": ["Brimhaven Dungeon"],
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 1.67
+    },
+    "Iron dragons - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 1.67
+    },
+    "Iron dragons - Isle of Souls Dungeon": {
+      "Chunks": ["Isle of Souls Dungeon"],
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 1.67
+    },
+    "Jellies - Rellekka Slayer Cave": {
+      "Chunks": ["Rellekka Slayer Cave"],
+      "Level": 52,
+      "CombatLevel": 57,
+      "Weight": 3
+    },
+    "Jellies - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "Level": 52,
+      "CombatLevel": 57,
+      "Weight": 3
+    },
+    "Kalphites - Kalphite Lair": {
+      "Chunks": ["Kalphite Lair"],
+      "CombatLevel": 15,
+      "Weight": 4.5
+    },
+    "Kalphites - Kalphite Cave": {
+      "Chunks": ["Kalphite Cave"],
+      "CombatLevel": 15,
+      "Weight": 4.5
+    },
+    "Kurasks - Rellekka Slayer Cave": {
+      "Chunks": ["Rellekka Slayer Cave"],
+      "Level": 70,
+      "CombatLevel": 65,
+      "Weight": 1.5
+    },
+    "Kurasks - Iorwerth Dungeon": {
+      "Chunks": ["Iorwerth Dungeon"],
+      "Level": 70,
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Song of the Elves|~ Complete the quest": "Quest"
+      },
+      "Weight": 1.5
+    },
+    "Lesser Nagua - Neypotzli": {
+      "Chunks": ["Neypotzli"],
+      "Level": 48,
+      "Tasks": {
+        "~|Perilous Moons|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Zygomites - Fossil Island": {
+      "Chunks": ["Fossil Island Task[+]"],
+      "Level": 57,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Lost City|~ Complete the quest": "Quest"
+      },
+      "Weight": 1
+    },
+    "Zygomites - Zanaris": {
+      "Chunks": ["Zanaris"],
+      "Level": 57,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Lost City|~ Complete the quest": "Quest"
+      },
+      "Weight": 1
+    },
+    "Nechryaels - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "Level": 80,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 2.33
+    },
+    "Nechryaels - Iorwerth Dungeon": {
+      "Chunks": ["Iorwerth Dungeon"],
+      "Level": 80,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest",
+        "~|Song of the Elves|~ Complete the quest": "Quest"
+      },
+      "Weight": 2.33
+    },
+    "Nechryaels - Slayer Tower": {
+      "Chunks": ["Slayer Tower Task[+]"],
+      "Level": 80,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 2.33
+    },
+    "Rune dragons - Lithkren Vault": {
+      "Chunks": ["Lithkren Vault"],
+      "Tasks": {
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    },
+    "Skeletal Wyverns - Asgarnian Ice Dungeon": {
+      "Chunks": ["Asgarnian Ice Dungeon"],
+      "Level": 72,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Elemental Workshop I|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    },
+    "Smoke devils - Smoke Devil Dungeon": {
+      "Chunks": ["Smoke Devil Dungeon"],
+      "Level": 93,
+      "CombatLevel": 85,
+      "Weight": 7
+    },
+    "Steel dragons - Catacombs of Kourend": {
+      "Chunks": ["Catacombs of Kourend"],
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 2.5
+    },
+    "Steel dragons - Brimhaven Dungeon": {
+      "Chunks": ["Brimhaven Dungeon"],
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 2.5
+    },
+    "Trolls - Troll Stronghold": {
+      "Chunks": ["Troll Stronghold"],
+      "CombatLevel": 60,
+      "Weight": 1.5
+    },
+    "Trolls - Keldagrim": {
+      "Chunks": ["Keldagrim"],
+      "CombatLevel": 60,
+      "Weight": 1.5
+    },
+    "Trolls - Death Plateau": {
+      "Chunks": ["11320"],
+      "CombatLevel": 60,
+      "Weight": 1.5
+    },
+    "Trolls - Mount Quidamortem": {
+      "Chunks": ["Mount Quidamortem Task[+]"],
+      "CombatLevel": 60,
+      "Weight": 1.5
+    },
+    "Turoths - Rellekka Slayer Cave": {
+      "Chunks": ["Rellekka Slayer Cave"],
+      "Level": 55,
+      "CombatLevel": 60,
+      "Weight": 3
+    },
+    "Waterfiends - Ancient Cavern": {
+      "Chunks": ["Ancient Cavern"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "Ancient Cavern": "Nonskill"
+      },
+      "Weight": 0.67
+    },
+    "Waterfiends - Iorwerth Dungeon": {
+      "Chunks": ["Iorwerth Dungeon"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "Ancient Cavern": "Nonskill",
+        "~|Song of the Elves|~ Complete the quest": "Quest"
+      },
+      "Weight": 0.67
+    },
+    "Waterfiends - Kraken Cove": {
+      "Chunks": ["Kraken Cove"],
+      "CombatLevel": 75,
+      "Tasks": {
+        "Ancient Cavern": "Nonskill"
+      },
+      "Weight": 0.67
+    },
+    "Wyrms - Karuulm Slayer Dungeon": {
+      "Chunks": ["Karuulm Slayer Dungeon"],
+      "Level": 62,
+      "Weight": 5
+    },
+    "Wyrms - Neypotzli": {
+      "Chunks": ["Neypotzli"],
+      "Level": 62,
+      "Tasks": {
+        "~|Perilous Moons|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    }
+  },
+  "Nieve": {
+    "Aberrant spectres": {
+      "Level": 60,
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 6
+    },
+    "Abyssal demons": {
+      "Level": 85,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 9
+    },
+    "Adamant dragons": {
+      "Tasks": {
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Ankous": {
+      "CombatLevel": 40,
+      "Weight": 5
+    },
+    "Black demons": {
+      "CombatLevel": 80,
+      "Weight": 9
+    },
+    "Black dragons": {
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 6
+    },
+    "Bloodvelds": {
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Blue dragons": {
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 4
+    },
+    "Brine rats": {
+      "Level": 47,
+      "CombatLevel": 45,
+      "Tasks": {
+        "~|Olaf's Quest|~ 5": "Quest"
+      },
+      "Weight": 3
+    },
+    "Cave horrors": {
+      "Level": 58,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Cabin Fever|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    },
+    "Cave krakens": {
+      "Level": 87,
+      "CombatLevel": 80,
+      "Skills": {
+        "Magic": 50
+      },
+      "Weight": 6
+    },
+    "Dagannoths": {
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Dark beasts": {
+      "Level": 90,
+      "CombatLevel": 90,
+      "Tasks": {
+        "~|Mourning's End Part II|~ 2": "Quest"
+      },
+      "Weight": 5
+    },
+    "Drakes": {
+      "Level": 84,
+      "Weight": 7
+    },
+    "Dust devils": {
+      "Level": 65,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Desert Treasure I|~ 7c1": "Quest"
+      },
+      "Weight": 6
+    },
+    "Elves": {
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Regicide|~ 3": "Quest"
+      },
+      "Weight": 4
+    },
+    "Fire giants": {
+      "CombatLevel": 65,
+      "Weight": 9
+    },
+    "Fossil Island Wyverns": {
+      "Level": 66,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Bone Voyage|~ Complete the quest": "Quest",
+        "~|Elemental Workshop I|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    },
+    "Gargoyles": {
+      "Level": 75,
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 6
+    },
+    "Greater demons": {
+      "CombatLevel": 70,
+      "Weight": 7
+    },
+    "Hellhounds": {
+      "CombatLevel": 75,
+      "Weight": 8
+    },
+    "Iron dragons": {
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 5
+    },
+    "Kalphites": {
+      "CombatLevel": 15,
+      "Weight": 9
+    },
+    "Kurasks": {
+      "Level": 70,
+      "CombatLevel": 65,
+      "Weight": 3
+    },
+    "Minions of Scabaras": {
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Contact!|~ 4": "Quest"
+      },
+      "Weight": 4
+    },
+    "Zygomites": {
+      "Level": 57,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Lost City|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Nechryaels": {
+      "Level": 80,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Rune dragons": {
+      "Tasks": {
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Skeletal Wyverns": {
+      "Level": 72,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Elemental Workshop I|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    },
+    "Smoke devils": {
+      "Level": 93,
+      "CombatLevel": 85,
+      "Weight": 7
+    },
+    "Spiritual creatures": {
+      "Level": 63,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Death Plateau|~ Complete the quest": "Quest"
+      },
+      "Weight": 6
+    },
+    "Steel dragons": {
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 5
+    },
+    "Suqahs": {
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Lunar Diplomacy|~ 6": "Quest"
+      },
+      "Weight": 8
+    },
+    "Trolls": {
+      "CombatLevel": 60,
+      "Weight": 6
+    },
+    "Turoths": {
+      "Level": 55,
+      "CombatLevel": 60,
+      "Weight": 3
+    },
+    "Wyrms": {
+      "Level": 62,
+      "Weight": 7
+    }
+  },
+  "Duradel": {
+    "Aberrant spectres": {
+      "Level": 60,
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Abyssal demons": {
+      "Level": 85,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 12
+    },
+    "Adamant dragons": {
+      "Tasks": {
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Ankous": {
+      "CombatLevel": 40,
+      "Weight": 5
+    },
+    "Black demons": {
+      "CombatLevel": 80,
+      "Weight": 8
+    },
+    "Black dragons": {
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 9
+    },
+    "Bloodvelds": {
+      "Level": 50,
+      "CombatLevel": 50,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Blue dragons": {
+      "CombatLevel": 65,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 4
+    },
+    "Cave horrors": {
+      "Level": 58,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Cabin Fever|~ Complete the quest": "Quest"
+      },
+      "Weight": 4
+    },
+    "Cave krakens": {
+      "Level": 87,
+      "CombatLevel": 80,
+      "Skills": {
+        "Magic": 50
+      },
+      "Weight": 9
+    },
+    "Dagannoths": {
+      "CombatLevel": 75,
+      "Tasks": {
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      },
+      "Weight": 9
+    },
+    "Dark beasts": {
+      "Level": 90,
+      "CombatLevel": 90,
+      "Tasks": {
+        "~|Mourning's End Part II|~ 2": "Quest"
+      },
+      "Weight": 11
+    },
+    "Drakes": {
+      "Level": 84,
+      "Weight": 8
+    },
+    "Dust devils": {
+      "Level": 65,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Desert Treasure I|~ 7c1": "Quest"
+      },
+      "Weight": 5
+    },
+    "Elves": {
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Regicide|~ 3": "Quest"
+      },
+      "Weight": 4
+    },
+    "Fire giants": {
+      "CombatLevel": 65,
+      "Weight": 7
+    },
+    "Fossil Island Wyverns": {
+      "Level": 66,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Bone Voyage|~ Complete the quest": "Quest",
+        "~|Elemental Workshop I|~ Complete the quest": "Quest"
+      },
+      "Weight": 5
+    },
+    "Gargoyles": {
+      "Level": 75,
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 8
+    },
+    "Greater demons": {
+      "CombatLevel": 70,
+      "Weight": 9
+    },
+    "Hellhounds": {
+      "CombatLevel": 75,
+      "Weight": 10
+    },
+    "Iron dragons": {
+      "CombatLevel": 80,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 5
+    },
+    "Kalphites": {
+      "CombatLevel": 15,
+      "Weight": 9
+    },
+    "Kurasks": {
+      "Level": 70,
+      "CombatLevel": 65,
+      "Weight": 4
+    },
+    "Zygomites": {
+      "Level": 57,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Lost City|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Nechryaels": {
+      "Level": 80,
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Priest in Peril|~ Complete the quest": "Quest"
+      },
+      "Weight": 9
+    },
+    "Rune dragons": {
+      "Tasks": {
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      },
+      "Weight": 2
+    },
+    "Skeletal Wyverns": {
+      "Level": 72,
+      "CombatLevel": 70,
+      "Tasks": {
+        "~|Elemental Workshop I|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Smoke devils": {
+      "Level": 93,
+      "CombatLevel": 85,
+      "Weight": 9
+    },
+    "Spiritual creatures": {
+      "Level": 63,
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Death Plateau|~ Complete the quest": "Quest"
+      },
+      "Weight": 7
+    },
+    "Steel dragons": {
+      "CombatLevel": 85,
+      "Tasks": {
+        "~|Dragon Slayer I|~ 1": "Quest"
+      },
+      "Weight": 7
+    },
+    "Suqahs": {
+      "CombatLevel": 60,
+      "Tasks": {
+        "~|Lunar Diplomacy|~ 6": "Quest"
+      },
+      "Weight": 8
+    },
+    "Trolls": {
+      "CombatLevel": 60,
+      "Weight": 6
+    },
+    "Waterfiends": {
+      "CombatLevel": 75,
+      "Tasks": {
+        "Ancient Cavern": "Nonskill"
+      },
+      "Weight": 2
+    },
+    "Wyrms": {
+      "Level": 62,
+      "Weight": 8
+    }
+  }
+}

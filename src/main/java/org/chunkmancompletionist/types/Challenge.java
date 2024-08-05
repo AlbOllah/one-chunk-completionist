@@ -1,0 +1,57 @@
+package org.chunkmancompletionist.types;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class Challenge {
+    public List<String> Chunks = new ArrayList<String>();
+    public List<String> Category = new ArrayList<String>();
+    public List<String> Items = new ArrayList<String>();
+    public List<String> Objects = new ArrayList<String>();
+    public List<String> NPCs = new ArrayList<String>();
+    public List<String> Sections = new ArrayList<String>();
+    public List<String> Reward = new ArrayList<String>();
+    public List<String> Monsters = new ArrayList<String>();
+    public List<String> Mix = new ArrayList<String>();
+    public Map<String, String> Tasks = new HashMap<String, String>();
+    public Map<String, Integer> Skills = new HashMap<String, Integer>();
+    public Map<String, Float> XpReward = new HashMap<String, Float>();
+    public Map<String, Boolean> SkillsBoost = new HashMap<String, Boolean>();
+    public String ClueTier = "";
+    public String ClueType = "";
+    public String Output = "";
+    public String BaseQuest = "";
+    public String Description = "";
+    public String Label = "";
+    public String OutputObject = "";
+    public String BackupParent = "";
+    public String InfoLink = "";
+    public String Source = "";
+    public String StarRegion = "";
+    public String Set = "";
+    public boolean ConnectsSections= false;
+    public boolean Primary = false;
+    public boolean NoPet = false;
+    public boolean NoBoost = false;
+    public boolean NotF2P = false;
+    public boolean NotEquip = false;
+    public boolean NoXp = false;
+    public boolean ManualShow = false;
+    public boolean AlwaysValid = false;
+    public boolean ManualInvalid = false;
+    public boolean ManualNonProcessing = false;
+    public boolean NotSkiller = false;
+    public boolean UnlocksArea = false;
+    public int Level = 0;
+    public int Priority = 0;
+    public int QuestPoints = 0;
+    public int QuestPointsNeeded = 0;
+    public int TotalLevelNeeded = 0;
+    public int CombatLevelNeeded = 0;
+    public int Kudos = 0;
+    public int CombatPoints = 0;
+    public int CombatPointsNeeded = 0;
+    public int KudosNeeded = 0;
+}

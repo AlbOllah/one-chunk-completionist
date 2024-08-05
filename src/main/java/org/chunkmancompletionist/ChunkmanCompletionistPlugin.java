@@ -35,9 +35,14 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 	private NavigationButton uiNavigationButton;
 	private boolean lastWorldWasMembers;
 
+	private ChunkmanCompletionistPanel panel;
+
 	@Override
 	protected void startUp() throws Exception {
 		final BufferedImage icon = ImageUtil.loadImageResource(HiscorePlugin.class, "hardcore_ironman.png");
+
+		panel = injector.getInstance(ChunkmanCompletionistPanel.class);
+		panel.init(client.getGameState() == GameState.LOGGED_IN);
 
 		uiNavigationButton = NavigationButton.builder()
 				.tooltip("Chunkman Completionist")

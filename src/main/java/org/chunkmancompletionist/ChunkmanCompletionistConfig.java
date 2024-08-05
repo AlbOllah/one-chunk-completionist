@@ -10,12 +10,12 @@ public interface ChunkmanCompletionistConfig extends Config {
 	String CONFIG_KEY = "tasks";
 
 	@ConfigItem(
-		keyName = "greeting",
-		name = "Welcome Greeting",
-		description = "The message to show to the user when they login"
+		keyName = "default-starting-chunk",
+		name = "Default starting chunk",
+		description = "Default starting chunk."
 	)
-	default String greeting()
+	default int startingChunk()
 	{
-		return "Hello";
+		return 12850;
 	}
 }

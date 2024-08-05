@@ -1,0 +1,5184 @@
+{
+  "Items": {
+    "Ancient platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Armadyl platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Bandos platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Climbing boots": [{
+      "~|Death Plateau|~ Complete the quest": "Quest"
+    }],
+    "Climbing boots (g)": [{
+      "~|Death Plateau|~ Complete the quest": "Quest"
+    }],
+    "Dragon battleaxe": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Dragon dagger": [{
+      "~|Lost City|~ Complete the quest": "Quest"
+    }],
+    "Dragon dagger(p)": [{
+      "~|Lost City|~ Complete the quest": "Quest"
+    }],
+    "Dragon dagger(p+)": [{
+      "~|Lost City|~ Complete the quest": "Quest"
+    }],
+    "Dragon dagger(p++)": [{
+      "~|Lost City|~ Complete the quest": "Quest"
+    }],
+    "Dragon halberd": [{
+      "~|Regicide|~ Complete the quest": "Quest"
+    }],
+    "Dragon longsword": [{
+      "~|Lost City|~ Complete the quest": "Quest"
+    }],
+    "Dragon mace": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Dragon platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Dragon scimitar": [{
+      "~|Monkey Madness I|~ Complete the quest": "Quest"
+    }],
+    "Dragon sq shield": [{
+      "~|Legends' Quest|~ Complete the quest": "Quest"
+    }],
+    "Gilded d'hide body": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Gilded platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Green d'hide body": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Green d'hide body (g)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Green d'hide body (t)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Guthix platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Heavy ballista": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Iban's staff": [{
+      "~|Underground Pass|~ Complete the quest": "Quest"
+    }],
+    "Inoculation bracelet": [{
+      "~|Zogre Flesh Eaters|~ Complete the quest": "Quest"
+    }],
+    "Rune platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Rune platebody (g)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Rune platebody (h1)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Rune platebody (h2)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Rune platebody (h3)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Rune platebody (h4)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Rune platebody (h5)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Rune platebody (t)": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Saradomin platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Zamorak platebody": [{
+      "~|Dragon Slayer I|~ Complete the quest": "Quest"
+    }],
+    "Fremennik blade": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik shield": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Rock-shell helm": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Rock-shell plate": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Rock-shell legs": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Spined helm": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Spined body": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Spined chaps": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Skeletal helm": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Skeletal top": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Skeletal bottoms": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik hat": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik robe": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik skirt": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik gloves": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik boots": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik green cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik blue cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik brown cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik cyan cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik red cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik grey cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik yellow cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik teal cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik purple cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik pink cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik black cloak": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Archer helm": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Berserker helm": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Farseer helm": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Warrior helm": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Fremennik helm": [{
+      "~|The Fremennik Trials|~ Complete the quest": "Quest"
+    }],
+    "Ancient staff": [{
+      "~|Desert Treasure I|~ Complete the quest": "Quest"
+    }],
+    "Rat's tail^": [{
+      "~|Witch's Potion|~ 1": "Quest"
+    }],
+    "Map part (Lozar)^": [{
+      "~|Dragon Slayer I|~ 4": "Quest"
+    }],
+    "Bottle of wine^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Jug of vinegar^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Imcando hammer (broken)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Imcando hammer^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy guam leaf^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy marrentill^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy tarromin^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy harralander^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy ranarr weed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy irit leaf^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy avantoe^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy kwuarm^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy cadantine^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy lantadyme^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Grimy dwarf weed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Potato seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Onion seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Cabbage seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Tomato seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Sweetcorn seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Strawberry seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Watermelon seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Snape grass seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Limpwurt seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Marrentill seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Jangerberry seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Tarromin seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Wildblood seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Harralander seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ranarr seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Whiteberry seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Mushroom spore^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Toadflax seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Belladonna seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Irit seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Poison ivy seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Avantoe seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Cactus seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Kwuarm seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Potato cactus seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Snapdragon seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Cadantine seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Lantadyme seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dwarf weed seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Torstol seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Clue scroll (easy)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Key (medium)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Key (elite)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Looting bag^": [{
+      "F2P Only": "Nonskill"
+    }, {
+      "Wilderness chunks": "Nonskill"
+    }],
+    "Bronze spear^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Iron spear^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Steel spear^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Mithril spear^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Trading sticks^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Goblin book^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Herb pack^": [{
+      "Be eligible to buy a ~|herb pack|~": "Nonskill"
+    }],
+    "Giant rat bone^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Unicorn bone^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Bear ribs^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Ram skull^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Goblin skull^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Big frog leg^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }],
+    "Monkey paw^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Giant bat wing^": [{
+      "~|Rag and Bone Man I|~ 1": "Quest"
+    }],
+    "Wolf bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }, {
+      "Level 64 Wolf": "Nonskill"
+    }],
+    "Bat wing^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Rat bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest",
+      "F2P Only": "Nonskill"
+    }],
+    "Baby dragon bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Ogre ribs^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Jogre bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Zogre bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Mogre bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Dagannoth ribs^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Snake spine^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Zombie bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest",
+      "F2P Only": "Nonskill"
+    }],
+    "Werewolf bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }, {
+      "Canifis Werewolf": "Nonskill"
+    }],
+    "Moss giant bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Fire giant bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Ice giant ribs^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest",
+      "F2P Only": "Nonskill"
+    }],
+    "Terrorbird wing^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Ghoul bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Troll bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Seagull wing^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Undead cow ribs^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Experiment bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Rabbit bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Basilisk bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Desert lizard bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Cave goblin skull^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Vulture wing^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Jackal bone^": [{
+      "~|Rag and Bone Man II|~ 1": "Quest"
+    }],
+    "Wolf bones^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled monkey head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled goblin head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled imp head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled unicorn head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled scorpion head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled demon head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled bear head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled giant head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled minotaur head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ensouled ogre head^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ecumenical key^": [{
+      "F2P Only": "Nonskill"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Imp champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Goblin champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Skeleton champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Zombie champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Giant champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Hobgoblin champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Ghoul champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Earth warrior champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Jogre champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Lesser demon champion scroll^": [{
+      "Champions Guild Questpoints": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Monkey corpse^": [{
+      "~|Tai Bwo Wannai Trio|~ 1": "Quest"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Pearl barbarian rod^": [{
+      "Barbarian fishing training": "Nonskill"
+    }],
+    "Bronze javelin^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Iron javelin^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Rune javelin^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dragon bones^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Battlestaff^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Shade robe top^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Shade robe^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dark fishing bait^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Rune spear^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Black knife^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Brimstone key^": [{
+      "F2P Only": "Nonskill"
+    }, {
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Slayer's enchantment^": [{
+      "F2P Only": "Nonskill"
+    }, {
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Unicorn horn^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Long bone^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Curved bone^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Book page 1^": [{
+      "~|Between a Rock...|~ 2": "Quest"
+    }, {
+      "Dwarven Mine scorpions": "Nonskill"
+    }, {
+      "F2P Only": "Nonskill"
+    }],
+    "Rake^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Gardening boots^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Seed dibber^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Secateurs^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Watering can(8)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Chaos talisman^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Nature talisman^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Loop half of key^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Tooth half of key^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Shield left half^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dragon spear^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blood rune^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Iron bolts^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Right eye patch^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Golden key^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Rat's paper^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Pure essence^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Weapon poison^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Fried mushrooms^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bass^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Clue scroll (medium)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Clue scroll (hard)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Clue scroll (elite)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Clue scroll (master)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Reward casket (elite)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Unlit torch^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dust rune^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Guthixian icon^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Trouver parchment^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Wilderness crabs teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blighted entangle sack^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blighted teleport spell sack^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blighted vengeance sack^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blighted ancient ice sack^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bolt rack^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Rune arrow^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dragonstone bolts (e)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blighted karambwan^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blighted manta ray^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blighted anglerfish^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blighted super restore(4)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Climbing boots^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Looting bag note^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ring of wealth scroll^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Magic shortbow scroll^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Clue box^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Crystal weapon seed^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Granite clamp^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ornate maul handle^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Steam staff upgrade kit^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Lava staff upgrade kit^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dragon pickaxe upgrade kit^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ward upgrade kit^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Green dark bow paint^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Yellow dark bow paint^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "White dark bow paint^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Blue dark bow paint^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Volcanic whip mix^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Frozen whip mix^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Rune pouch^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Rune pouch note^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Decorative emblem^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Saradomin's tear^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Target teleport scroll^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Vesta's longsword (inactive)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Armadyl halo^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bandos halo^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Seren halo^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ancient halo^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Brassica halo^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Paddewwa teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Senntisten teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Annakarl teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Carrallanger teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dareeyak teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Ghorrock teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Kharyrll teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Lassar teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Target teleport^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Golden Armadyl special^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Golden Saradomin special^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Golden Bandos special^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Golden Zamorak special^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Decorative armour (magic hat)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Decorative armour (magic top)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Decorative armour (magic legs)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Decorative armour (ranged top)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Decorative armour (ranged legs)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Decorative armour (quiver)^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Saradomin halo^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Zamorak halo^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Guthix halo^": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Crystal shard^": [{
+      "~|Song of the Elves|~ Complete the quest": "Quest"
+    }],
+    "Crystal dust^": [{
+      "~|Song of the Elves|~ Complete the quest": "Quest"
+    }],
+    "Double ammo mould^": [{
+      "~|Dwarf Cannon|~ Complete the quest": "Quest"
+    }],
+    "Tattered moon page^": [{
+      "Forthos drops": "Nonskill"
+    }],
+    "Tattered sun page^": [{
+      "Forthos drops": "Nonskill"
+    }],
+    "Tattered temple page^": [{
+      "Forthos drops": "Nonskill"
+    }],
+    "Grubby key^": [{
+      "Forthos drops": "Nonskill"
+    }],
+    "Dragon javelin heads^Adamant dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Black dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Black dragon#Wilderness Slayer Cave": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Brutal black dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Brutal blue dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Brutal green dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Brutal red dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Demonic gorilla": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Dragon impling-npc": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^King Black Dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Lava dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Mithril dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Red dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Rune dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Steel dragon": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Dragon javelin heads^Tortured gorilla": [{
+      "~|Monkey Madness II|~ Complete the quest": "Quest"
+    }],
+    "Crest part (Johnathon)^Chronozon": [{
+      "~|Family Crest|~ 11": "Quest"
+    }],
+    "Clue scroll (beginner)^Wolf": [{
+      "Stronghold drops": "Nonskill"
+    }],
+    "Bronze bolts^Man": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Woman": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Mugger": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bones^Rat": [{
+      "Stronghold drops": "Nonskill"
+    }],
+    "Bronze bolts^Al-Kharid warrior": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Thief": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Anja": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Hengel": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Drunken man": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Dwarf": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Cuffs": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Jeff": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Narf": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Rusty": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Bronze bolts^Black Guard#Level 25": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Death rune^Ankou": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Adamant med helm^Catablepon": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Cosmic rune^Catablepon": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Chaos rune^Catablepon": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Dust rune^Flesh Crawler": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Fire rune^Flesh Crawler": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Nature rune^Flesh Crawler": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Silver bar^Flesh Crawler": [{
+      "F2P Only": "Nonskill"
+    }],
+    "Looting bag^Ancient Wizard": [{
+      "Wilderness ancient wizard": "Nonskill"
+    }],
+    "Looting bag^Ankou": [{
+      "Wilderness ankou": "Nonskill"
+    }],
+    "Looting bag^Armadylean guard": [{
+      "Wilderness armadylean guard": "Nonskill"
+    }],
+    "Looting bag^Bandit#Level 22": [{
+      "Wilderness bandit": "Nonskill"
+    }],
+    "Larran's key^Bandit#Level 22": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness bandit": "Nonskill"
+    }],
+    "Slayer's enchantment^Bandit#Level 22": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness bandit": "Nonskill"
+    }],
+    "Looting bag^Bandit#Level 130": [{
+      "Wilderness bandit": "Nonskill"
+    }],
+    "Larran's key^Bandit#Level 130": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness bandit": "Nonskill"
+    }],
+    "Slayer's enchantment^Bandit#Level 130": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness bandit": "Nonskill"
+    }],
+    "Looting bag^Bandosian guard": [{
+      "Wilderness armadylean guard": "Nonskill"
+    }],
+    "Looting bag^Black Knight": [{
+      "Wilderness black knight": "Nonskill"
+    }],
+    "Larran's key^Black Knight": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness black knight": "Nonskill"
+    }],
+    "Slayer's enchantment^Black Knight": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness black knight": "Nonskill"
+    }],
+    "Looting bag^Black demon": [{
+      "Wilderness black demon": "Nonskill"
+    }],
+    "Larran's key^Black demon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness black demon": "Nonskill"
+    }],
+    "Slayer's enchantment^Black demon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness black demon": "Nonskill"
+    }],
+    "Looting bag^Black dragon": [{
+      "Wilderness black dragon": "Nonskill"
+    }],
+    "Larran's key^Black dragon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness black dragon": "Nonskill"
+    }],
+    "Slayer's enchantment^Black dragon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness black dragon": "Nonskill"
+    }],
+    "Looting bag^Black unicorn": [{
+      "Wilderness black unicorn": "Nonskill"
+    }],
+    "Looting bag^Bloodveld": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Larran's key^Bloodveld": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Bloodveld": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Brassican Mage": [{
+      "Wilderness brassican mage": "Nonskill"
+    }],
+    "Looting bag^Chaos druid": [{
+      "Wilderness chaos druid": "Nonskill"
+    }],
+    "Larran's key^Chaos druid": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness chaos druid": "Nonskill"
+    }],
+    "Slayer's enchantment^Chaos druid": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness chaos druid": "Nonskill"
+    }],
+    "Looting bag^Chaos dwarf": [{
+      "Wilderness chaos dwarf": "Nonskill"
+    }],
+    "Looting bag^Dark wizard#Lower level": [{
+      "Wilderness dark wizard": "Nonskill"
+    }],
+    "Looting bag^Dark wizard#Higher level": [{
+      "Wilderness dark wizard": "Nonskill"
+    }],
+    "Looting bag^Deadly red spider": [{
+      "Wilderness deadly red spider": "Nonskill"
+    }],
+    "Larran's key^Deadly red spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness deadly red spider": "Nonskill"
+    }],
+    "Slayer's enchantment^Deadly red spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness deadly red spider": "Nonskill"
+    }],
+    "Larran's key^Elder Chaos druid": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Elder Chaos druid": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Zombie pirate": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Zombie pirate": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Ent": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness ent": "Nonskill"
+    }],
+    "Looting bag^Feral Vampyre": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Fire giant": [{
+      "Wilderness fire giant": "Nonskill"
+    }],
+    "Larran's key^Fire giant": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness fire giant": "Nonskill"
+    }],
+    "Slayer's enchantment^Fire giant": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness fire giant": "Nonskill"
+    }],
+    "Looting bag^Flaming pyrelord": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Ghost": [{
+      "Wilderness ghost": "Nonskill"
+    }],
+    "Looting bag^Giant bat": [{
+      "Wilderness giant bat": "Nonskill"
+    }],
+    "Looting bag^Giant rat": [{
+      "Wilderness giant rat": "Nonskill"
+    }],
+    "Looting bag^Giant spider": [{
+      "Wilderness giant spider": "Nonskill"
+    }],
+    "Larran's key^Giant spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness giant spider": "Nonskill"
+    }],
+    "Slayer's enchantment^Giant spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness giant spider": "Nonskill"
+    }],
+    "Looting bag^Goblin (God Wars Dungeon)": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Gorak": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Greater demon": [{
+      "Wilderness greater demon": "Nonskill"
+    }],
+    "Larran's key^Greater demon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness greater demon": "Nonskill"
+    }],
+    "Slayer's enchantment^Greater demon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness greater demon": "Nonskill"
+    }],
+    "Looting bag^Green dragon": [{
+      "Wilderness green dragon": "Nonskill"
+    }],
+    "Larran's key^Green dragon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness green dragon": "Nonskill"
+    }],
+    "Slayer's enchantment^Green dragon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness green dragon": "Nonskill"
+    }],
+    "Looting bag^Grizzly bear": [{
+      "Wilderness grizzly bear": "Nonskill"
+    }],
+    "Larran's key^Grizzly bear": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness grizzly bear": "Nonskill"
+    }],
+    "Slayer's enchantment^Grizzly bear": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness grizzly bear": "Nonskill"
+    }],
+    "Larran's key^Grizzly bear (Escape Caves)": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Grizzly bear (Escape Caves)": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Looting bag^Hellhound": [{
+      "Wilderness hellhound": "Nonskill"
+    }],
+    "Larran's key^Hellhound": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness hellhound": "Nonskill"
+    }],
+    "Slayer's enchantment^Hellhound": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness hellhound": "Nonskill"
+    }],
+    "Looting bag^Hill Giant": [{
+      "Wilderness hill giant": "Nonskill"
+    }],
+    "Larran's key^Hill Giant": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness hill giant": "Nonskill"
+    }],
+    "Slayer's enchantment^Hill Giant": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness hill giant": "Nonskill"
+    }],
+    "Looting bag^Hobgoblin#Unarmed": [{
+      "Wilderness hobgoblin": "Nonskill"
+    }],
+    "Looting bag^Hobgoblin#Armed": [{
+      "Wilderness hobgoblin": "Nonskill"
+    }],
+    "Looting bag^Ice giant": [{
+      "Wilderness ice giant": "Nonskill"
+    }],
+    "Larran's key^Ice giant": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness ice giant": "Nonskill"
+    }],
+    "Slayer's enchantment^Ice giant": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness ice giant": "Nonskill"
+    }],
+    "Looting bag^Ice spider": [{
+      "Wilderness ice spider": "Nonskill"
+    }],
+    "Larran's key^Ice spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness ice spider": "Nonskill"
+    }],
+    "Slayer's enchantment^Ice spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness ice spider": "Nonskill"
+    }],
+    "Looting bag^Ice warrior": [{
+      "Wilderness ice warrior": "Nonskill"
+    }],
+    "Larran's key^Ice warrior": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness ice warrior": "Nonskill"
+    }],
+    "Slayer's enchantment^Ice warrior": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness ice warrior": "Nonskill"
+    }],
+    "Looting bag^Icefiend": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Imp": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^King Scorpion": [{
+      "Wilderness king scorpion": "Nonskill"
+    }],
+    "Larran's key^King Scorpion": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness king scorpion": "Nonskill"
+    }],
+    "Slayer's enchantment^King Scorpion": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness king scorpion": "Nonskill"
+    }],
+    "Looting bag^Knight of Saradomin": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Lesser demon": [{
+      "Wilderness lesser demon": "Nonskill"
+    }],
+    "Larran's key^Lava dragon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Lava dragon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Lesser demon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness lesser demon": "Nonskill"
+    }],
+    "Slayer's enchantment^Lesser demon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness lesser demon": "Nonskill"
+    }],
+    "Looting bag^Magic axe": [{
+      "Wilderness magic axe": "Nonskill"
+    }],
+    "Larran's key^Magic axe": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness magic axe": "Nonskill"
+    }],
+    "Slayer's enchantment^Magic axe": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness magic axe": "Nonskill"
+    }],
+    "Larran's key^Mammoth": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Mammoth": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Looting bag^Man": [{
+      "Wilderness man": "Nonskill"
+    }],
+    "Looting bag^Monk of Zamorak": [{
+      "Wilderness monk of zamorak": "Nonskill"
+    }],
+    "Looting bag^Moss giant": [{
+      "Wilderness moss giant": "Nonskill"
+    }],
+    "Larran's key^Moss giant": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness moss giant": "Nonskill"
+    }],
+    "Slayer's enchantment^Moss giant": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness moss giant": "Nonskill"
+    }],
+    "Looting bag^Ogre": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Ork": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Pirate": [{
+      "Wilderness pirate": "Nonskill"
+    }],
+    "Larran's key^Pirate": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness pirate": "Nonskill"
+    }],
+    "Slayer's enchantment^Pirate": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness pirate": "Nonskill"
+    }],
+    "Looting bag^Poison spider": [{
+      "Wilderness poison spider": "Nonskill"
+    }],
+    "Larran's key^Poison spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness poison spider": "Nonskill"
+    }],
+    "Slayer's enchantment^Poison spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness poison spider": "Nonskill"
+    }],
+    "Looting bag^Pyrefiend": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Rat": [{
+      "Wilderness rat": "Nonskill"
+    }],
+    "Larran's key^Revenant cyclops": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant cyclops": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant dark beast": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant dark beast": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant demon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant demon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant dragon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant dragon": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant goblin": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant goblin": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant hellhound": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant hellhound": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant hobgoblin": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant hobgoblin": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant imp": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant imp": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant knight": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant knight": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant ork": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant ork": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Revenant pyrefiend": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Revenant pyrefiend": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Looting bag^Scorpion": [{
+      "Wilderness scorpion": "Nonskill"
+    }],
+    "Larran's key^Scorpion": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness scorpion": "Nonskill"
+    }],
+    "Slayer's enchantment^Scorpion": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness scorpion": "Nonskill"
+    }],
+    "Looting bag^Shadow spider": [{
+      "Wilderness shadow spider": "Nonskill"
+    }],
+    "Larran's key^Shadow spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness shadow spider": "Nonskill"
+    }],
+    "Slayer's enchantment^Shadow spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness shadow spider": "Nonskill"
+    }],
+    "Looting bag^Skeleton#Armed": [{
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Larran's key^Skeleton#Armed": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Slayer's enchantment^Skeleton#Armed": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Looting bag^Skeleton#Plain": [{
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Larran's key^Skeleton#Plain": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Slayer's enchantment^Skeleton#Plain": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Looting bag^Skeleton#Unarmed": [{
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Larran's key^Skeleton#Unarmed": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Slayer's enchantment^Skeleton#Unarmed": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness skeleton": "Nonskill"
+    }],
+    "Looting bag^Spider": [{
+      "Wilderness spider": "Nonskill"
+    }],
+    "Larran's key^Spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness spider": "Nonskill"
+    }],
+    "Slayer's enchantment^Spider": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness spider": "Nonskill"
+    }],
+    "Looting bag^Spiritual mage": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Larran's key^Spiritual mage": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Spiritual mage": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Spiritual ranger": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Larran's key^Spiritual ranger": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Spiritual ranger": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^Spiritual warrior": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Larran's key^Spiritual warrior": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Spiritual warrior": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Larran's key^Vet'ion": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Vet'ion": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Zombie#Wilderness": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Slayer's enchantment^Zombie#Wilderness": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }],
+    "Larran's key^Ankou#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Ankou#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Larran's key^Bandit#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Bandit#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Larran's key^Greater demon#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Greater demon#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Larran's key^Green dragon#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Green dragon#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Larran's key^Ice giant#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Ice giant#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Larran's key^Lesser demon#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Lesser demon#Wilderness Slayer Cave": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Wilderness Slayer Cave drops": "Nonskill"
+    }],
+    "Larran's key^Poison spider (Escape Caves)": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Escape Caves drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Poison spider (Escape Caves)": [{
+      "Receive a Slayer assignment from ~|Krystilia|~ in Edgeville": "Slayer"
+    }, {
+      "Escape Caves drops": "Nonskill"
+    }],
+    "Looting bag^Werewolf": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Looting bag^White wolf": [{
+      "Wilderness white wolf": "Nonskill"
+    }],
+    "Looting bag^Wolf": [{
+      "Wilderness wolf": "Nonskill"
+    }],
+    "Dark fishing bait^Ankou": [{
+      "Wilderness ankou": "Nonskill"
+    }],
+    "Fishing bait^Ankou": [{
+      "Wilderness ankou": "Nonskill"
+    }],
+    "Bronze defender^Cyclops": [{
+      "Warriors' Guild drops": "Nonskill"
+    }],
+    "Iron defender^Cyclops": [{
+      "Warriors' Guild drops": "Nonskill"
+    }],
+    "Steel defender^Cyclops": [{
+      "Warriors' Guild drops": "Nonskill"
+    }],
+    "Black defender^Cyclops": [{
+      "Warriors' Guild drops": "Nonskill"
+    }],
+    "Mithril defender^Cyclops": [{
+      "Warriors' Guild drops": "Nonskill"
+    }],
+    "Adamant defender^Cyclops": [{
+      "Warriors' Guild drops": "Nonskill"
+    }],
+    "Rune defender^Cyclops": [{
+      "Warriors' Guild drops": "Nonskill"
+    }],
+    "Trading sticks^Hobgoblin#Unarmed": [{
+      "Karamja hobgoblin": "Nonskill"
+    }],
+    "Bronze med helm^Farmer": [{
+      "F2P Farmer": "Nonskill"
+    }],
+    "Iron dagger^Farmer": [{
+      "F2P Farmer": "Nonskill"
+    }],
+    "Bronze arrow^Farmer": [{
+      "F2P Farmer": "Nonskill"
+    }],
+    "Copper ore^Farmer": [{
+      "F2P Farmer": "Nonskill"
+    }],
+    "Cabbage^Farmer": [{
+      "F2P Farmer": "Nonskill"
+    }],
+    "Left skull half^Ankou": [{
+      "Stronghold drops": "Nonskill"
+    }],
+    "Right skull half^Minotaur": [{
+      "Stronghold drops": "Nonskill"
+    }],
+    "Bottom of sceptre^Flesh Crawler": [{
+      "Stronghold drops": "Nonskill"
+    }],
+    "Top of sceptre^Catablepon": [{
+      "Stronghold drops": "Nonskill"
+    }],
+    "Ecumenical key^Avianse": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Larran's key^Avianse": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Slayer's enchantment^Avianse": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Bloodveld": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Feral Vampyre": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Flaming pyrelord": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Goblin (God Wars Dungeon)": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Gorak": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Hobgoblin#Unarmed": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Hobgoblin#Armed": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Icefiend": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Imp": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Knight of Saradomin": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Ogre": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Ork": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Pyrefiend": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Spiritual mage": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Spiritual ranger": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Spiritual warrior": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ecumenical key^Werewolf": [{
+      "Wilderness GWD Drops": "Nonskill"
+    }],
+    "Ancient shard^Abyssal demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Abyssal demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Abyssal demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Abyssal demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Ankou": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Ankou": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Ankou": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Ankou": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Black demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Black demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Black demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Black demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Bronze dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Bronze dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Bronze dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Bronze dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Brutal black dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Brutal black dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Brutal black dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Brutal black dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Brutal blue dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Brutal blue dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Brutal blue dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Brutal blue dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Brutal red dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Brutal red dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Brutal red dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Brutal red dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Choke devil": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Choke devil": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Choke devil": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Choke devil": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Cyclops": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Cyclops": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Cyclops": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Cyclops": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Dagannoth": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Dagannoth": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Dagannoth": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Dagannoth": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Deviant spectre": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Deviant spectre": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Deviant spectre": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Deviant spectre": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Dust devil": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Dust devil": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Dust devil": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Dust devil": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Fire giant": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem base^Fire giant": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem middle^Fire giant": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem top^Fire giant": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Ancient shard^Greater abyssal demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Greater abyssal demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Greater abyssal demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Greater abyssal demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Greater demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Greater demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Greater demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Greater demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Greater Nechryael": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Greater Nechryael": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Greater Nechryael": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Greater Nechryael": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Hellhound": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Hellhound": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Hellhound": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Hellhound": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Hill Giant (Kourend)": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem base^Hill Giant (Kourend)": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem middle^Hill Giant (Kourend)": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem top^Hill Giant (Kourend)": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Ancient shard^Insatiable mutated Bloodveld": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Insatiable mutated Bloodveld": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Insatiable mutated Bloodveld": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Insatiable mutated Bloodveld": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Iron dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Iron dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Iron dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Iron dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^King Sand Crab": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^King Sand Crab": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^King Sand Crab": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^King Sand Crab": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Lesser demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Lesser demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Lesser demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Lesser demon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Magic axe#Catacombs": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Magic axe#Catacombs": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Magic axe#Catacombs": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Magic axe#Catacombs": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Moss giant": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem base^Moss giant": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem middle^Moss giant": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Dark totem top^Moss giant": [{
+      "Catacombs or Giants Den drops": "Nonskill"
+    }],
+    "Ancient shard^Mutated Bloodveld": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Mutated Bloodveld": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Mutated Bloodveld": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Mutated Bloodveld": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Nechryarch": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Nechryarch": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Nechryarch": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Nechryarch": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Possessed pickaxe#Catacombs of Kourend": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Possessed pickaxe#Catacombs of Kourend": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Possessed pickaxe#Catacombs of Kourend": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Possessed pickaxe#Catacombs of Kourend": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Repugnant spectre": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Repugnant spectre": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Repugnant spectre": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Repugnant spectre": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Screaming twisted banshee": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Screaming twisted banshee": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Screaming twisted banshee": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Screaming twisted banshee": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Shade": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Shade": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Shade": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Shade": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Skeleton#Unarmed": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Skeleton#Unarmed": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Skeleton#Unarmed": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Skeleton#Unarmed": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Skotizo": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Skotizo": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Skotizo": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Skotizo": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Steel dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Steel dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Steel dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Steel dragon": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Twisted banshee": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Twisted banshee": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Twisted banshee": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Twisted banshee": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Vitreous warped Jelly": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Vitreous warped Jelly": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Vitreous warped Jelly": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Vitreous warped Jelly": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Ancient shard^Warped Jelly": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem base^Warped Jelly": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem middle^Warped Jelly": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Dark totem top^Warped Jelly": [{
+      "Catacombs drops": "Nonskill"
+    }],
+    "Crystal shard^Kurask": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Crystal shard^Waterfiend": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Crystal shard^Mutated Bloodveld": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Crystal shard^Dark beast": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Crystal shard^Greater Nechryael": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Crystal shard^Insatiable mutated Bloodveld": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Crystal shard^King kurask": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Crystal shard^Nechryarch": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Crystal shard^Night beast": [{
+      "Iorwerth Dungeon drops": "Nonskill"
+    }],
+    "Brimstone key^Aberrant spectre": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Abhorrent spectre": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Abyssal demon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Abyssal Sire": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Adamant dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Ahrim the Blighted": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Alchemical Hydra": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Ancient Wyvern": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Ancient Zygomite": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Ankou": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Aviansie": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Baby black dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Baby blue dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Baby red dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Basilisk": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Basilisk Knight": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Basilisk Sentinel": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Berry": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Black demon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Black dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Bloodveld": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Blue dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Brine rat": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Bronze dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Brutal black dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Brutal blue dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Brutal red dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Callisto": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Artio": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Cave kraken": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Cerberus": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Chaos Elemental": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Chaos Fanatic": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Choke devil": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Colossal Hydra": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Commander Zilyana": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Crazy archaeologist": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dagannoth": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dagannoth (Waterbirth Island)#Level 88": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dagannoth (Waterbirth Island)#Level 90": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dagannoth fledgeling": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dagannoth Prime": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dagannoth Rex": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dagannoth spawn": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dagannoth Supreme": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dark beast": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Deviant spectre": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dharok the Wretched": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Drake": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Dust devil": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Fire giant": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Flight Kilisa": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Flockleader Geerin": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Gargoyle": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^General Graardor": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Giant Mole": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Greater abyssal demon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Greater demon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Greater Nechryael": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Grotesque Guardians": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Guardian Drake": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Guthan the Infested": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Hellhound": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Hydra": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Insatiable Bloodveld": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Insatiable mutated Bloodveld": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Iron dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Jelly": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^K'ril Tsutsaroth": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Kalphite Guardian": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Kalphite Queen": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Kalphite Soldier": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Kalphite Worker": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Karil the Tainted": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^King Black Dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^King kurask": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Kraka": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Kraken": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Kree'arra": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Kurask": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Lizardman brute": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Lizardman#Level 53": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Lizardman#Level 62": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Lizardman shaman": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Long-tailed Wyvern": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Marble gargoyle": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Mithril dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Monstrous basilisk": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Mountain troll": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Mutated Bloodveld": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Nechryael": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Nechryarch": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Night beast": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Nuclear smoke devil": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Pee Hat": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Red dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Repugnant spectre": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Rock (Troll)": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Rune dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Sarachnis": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Scorpia": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Screaming twisted banshee": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Shadow Wyrm": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Skeletal Wyvern": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Skotizo": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Smoke devil": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Spiked Turoth": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Spitting Wyvern": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Steel dragon": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Stick": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Taloned Wyvern": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Thermonuclear smoke devil": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Thrower Troll": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Torag the Corrupted": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Troll general": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Turoth": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Brimstone key^Twig": [{
+      "Receive a Slayer assignment from ~|Konar quo Maten|~ in Mount Karuulm": "Slayer"
+    }],
+    "Key (medium)^Monk": [{
+      "Ardougne monk": "Nonskill"
+    }],
+    "Key (medium)^Guard": [{
+      "Ardougne guard": "Nonskill"
+    }],
+    "Key (medium)^Guard dog": [{
+      "Ardougne guard dog": "Nonskill"
+    }],
+    "Unholy mould^Chaos druid": [{
+      "~|Observatory Quest|~ Complete the quest": "Quest"
+    }],
+    "Unholy mould^Elder Chaos druid": [{
+      "~|Observatory Quest|~ Complete the quest": "Quest"
+    }],
+    "Golden key^Monk of Zamorak": [{
+      "~|Priest in Peril|~ 3": "Quest"
+    }],
+    "Dagannoth ribs^Dagannoth": [{
+      "Lighthouse dagannoth": "Nonskill"
+    }],
+    "Blamish oil^Alexis": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Boris": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Borrokar": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Eduard": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Freidir": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Galina": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Georgy": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Imre": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Irina": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Jennella": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Joseph": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Ksenia": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Lanzig": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Lensa": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Lev": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Liliya": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Milla": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Nikita": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Nikolai": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Sofiya": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Svetlana": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Vera": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Yadviga": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Yuri": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Blamish oil^Zoja": [{
+      "~|Heroes' Quest|~ Complete the quest": "Quest"
+    }],
+    "Fox^Copper's crimson collar": [{
+      "Help Veos look for his pet wolf": "Nonskill"
+    }]
+  },
+  "Monsters": {
+    "Aberrant spectre": {
+      "Stronghold Slayer Cave": [{
+        "Aberrant spectre task": "Nonskill"
+      }]
+    },
+    "Abyssal demon": {
+      "Slayer Tower#Basement": [{
+        "Abyssal demon task": "Nonskill"
+      }]
+    },
+    "Abyssal demon#Wilderness Slayer Cave": {
+      "Wilderness Slayer Cave": [{
+        "Abyssal demon wilderness task": "Nonskill"
+      }]
+    },
+    "Abyssal Sire": {
+      "Abyssal Nexus": [{
+        "Abyssal demon task": "Nonskill"
+      }]
+    },
+    "Adamant dragon": {
+      "Lithkren Vault": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }]
+    },
+    "Alchemical Hydra": {
+      "Karuulm Slayer Dungeon": [{
+        "Hydra task": "Nonskill"
+      }]
+    },
+    "Ancient Wyvern": {
+      "Task Only Wyvern Cave": [{
+        "Fossil Island Wyvern task": "Nonskill"
+      }]
+    },
+    "Animated Adamant Armour": {
+      "11319-1": [{
+        "Animate adamant armour": "Nonskill"
+      }]
+    },
+    "Animated Black Armour": {
+      "11319-1": [{
+        "Animate black armour": "Nonskill"
+      }]
+    },
+    "Animated Bronze Armour": {
+      "11319-1": [{
+        "Animate bronze armour": "Nonskill"
+      }]
+    },
+    "Animated Iron Armour": {
+      "11319-1": [{
+        "Animate iron armour": "Nonskill"
+      }]
+    },
+    "Animated Mithril Armour": {
+      "11319-1": [{
+        "Animate mithril armour": "Nonskill"
+      }]
+    },
+    "Animated Rune Armour": {
+      "11319-1": [{
+        "Animate rune armour": "Nonskill"
+      }]
+    },
+    "Animated Steel Armour": {
+      "11319-1": [{
+        "Animate steel armour": "Nonskill"
+      }]
+    },
+    "Ankou": {
+      "Stronghold Slayer Cave": [{
+        "Ankou task": "Nonskill"
+      }]
+    },
+    "Baby black dragon": {
+      "Taverley Dungeon": [{
+        "Black dragon task": "Nonskill"
+      }]
+    },
+    "Baby tanglefoot": {
+      "Zanaris": [{
+        "~|Fairytale I - Growing Pains|~ 9": "Quest"
+      }]
+    },
+    "Bandit#Level 130": {
+      "12089": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Barbarian#Lower level": {
+      "10039": [{
+        "~|Alfred Grimhand's Barcrawl|~ Complete the quest": "Quest"
+      }]
+    },
+    "Bark Blamish Snail": {
+      "13619-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Billy Goat": {
+      "13617-2": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Black chinchompa (Hunter)": {
+      "12347-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12602": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12603-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Black demon": {
+      "Chasm of Fire": [{
+        "Black demon task": "Nonskill"
+      }],
+      "Edgeville Dungeon#Wilderness": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Black unicorn": {
+      "12857": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Bloodveld": {
+      "Slayer Tower#Basement": [{
+        "Bloodveld task": "Nonskill"
+      }],
+      "Stronghold Slayer Cave": [{
+        "Bloodveld task": "Nonskill"
+      }]
+    },
+    "Blue dragon": {
+      "Ogre Enclave": [{
+        "~|Watchtower|~ 12": "Quest"
+      }]
+    },
+    "Broodoo victim": {
+      "11055-1": [{
+        "Chop any type of jungle": "Nonskill"
+      }],
+      "11056": [{
+        "Chop any type of jungle": "Nonskill"
+      }]
+    },
+    "Bryophyta": {
+      "Varrock Sewers": [{
+        "Mossy key": "Nonskill"
+      }]
+    },
+    "Bush snake": {
+      "11055-1": [{
+        "Chop any type of jungle": "Nonskill"
+      }],
+      "11056": [{
+        "Chop any type of jungle": "Nonskill"
+      }]
+    },
+    "Cave kraken": {
+      "Kraken Cove": [{
+        "Kraken task": "Nonskill"
+      }]
+    },
+    "Cerberus": {
+      "Cerberus' Lair": [{
+        "Hellhound task": "Nonskill"
+      }]
+    },
+    "Chaos druid": {
+      "10292": [{
+        "Unlock the ~|door (Chaos Druid Tower)|~": "Thieving"
+      }],
+      "Edgeville Dungeon#Wilderness": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Chaos dwarf": {
+      "10031": [{
+        "~|Watchtower|~ 11": "Quest"
+      }]
+    },
+    "Chaos Fanatic": {
+      "11836": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Chaos Golem": {
+      "Ruins of Camdozaal": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Chicken": {
+      "10039": [{
+        "~|Alfred Grimhand's Barcrawl|~ Complete the quest": "Quest"
+      }],
+      "11319-1": [{
+        "~|Death Plateau|~ 6": "Quest"
+      }],
+      "12596-1": [{
+        "Champions Guild Questpoints": "Nonskill"
+      }]
+    },
+    "Chompy bird": {
+      "10542": [{
+        "~|Big Chompy Bird Hunting|~ Complete the quest": "Quest"
+      }]
+    },
+    "Chronozon": {
+      "Edgeville Dungeon#Wilderness": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Crab": {
+      "11570": [{
+        "~|Recipe for Disaster/Freeing Pirate Pete|~ 4": "Quest"
+      }]
+    },
+    "Crazy archaeologist": {
+      "11833-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Dark warrior#Level 145": {
+      "12088": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Dark wizard#Higher level": {
+      "11572-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Dark wizard#Lower level": {
+      "11572-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Deadly red spider": {
+      "Edgeville Dungeon#Wilderness": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Desert Wolf": {
+      "13104": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Druid": {
+      "11573-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "11574-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Duck": {
+      "6454": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }]
+    },
+    "Dust devil#Wilderness Slayer Cave": {
+      "Wilderness Slayer Cave": [{
+        "Dust devil wilderness task": "Nonskill"
+      }]
+    },
+    "Dwarf gang member": {
+      "Dwarven Mine": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Earth elemental#Ore variant": {
+      "Elemental Workshop": [{
+        "Mine ~|elemental ore|~": "Mining"
+      }]
+    },
+    "Earth warrior": {
+      "Edgeville Dungeon#Wilderness": [{
+        "F2P Only": "Nonskill"
+      }, {
+        "Access the monkey bars under Edgeville ~|shortcut|~": "Agility"
+      }]
+    },
+    "Elder Chaos druid": {
+      "12856": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Ent": {
+      "12857": [{
+        "F2P Only": "Nonskill"
+      }],
+      "13112-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Evil Chicken": {
+      "12596-1": [{
+        "Champions Guild Questpoints": "Nonskill"
+      }]
+    },
+    "Fire giant": {
+      "Stronghold Slayer Cave": [{
+        "Fire giant task": "Nonskill"
+      }]
+    },
+    "Foreman": {
+      "11823": [{
+        "~|The Grand Tree|~ 3": "Quest"
+      }]
+    },
+    "Forester": {
+      "6198-1": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }],
+      "6454": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }]
+    },
+    "Frogeel": {
+      "Tower of Life#Basement": [{
+        "Frogeel": "Nonskill"
+      }]
+    },
+    "Gargoyle": {
+      "Slayer Tower#Basement": [{
+        "Gargoyle task": "Nonskill"
+      }]
+    },
+    "Ghast": {
+      "13620-1": [{
+        "~|Nature Spirit|~ 6": "Quest"
+      }],
+      "13621-1": [{
+        "~|Nature Spirit|~ 6": "Quest"
+      }],
+      "13876-1": [{
+        "~|Nature Spirit|~ 6": "Quest"
+      }],
+      "13877-1": [{
+        "~|Nature Spirit|~ 6": "Quest"
+      }],
+      "14133-1": [{
+        "~|Nature Spirit|~ 6": "Quest"
+      }]
+    },
+    "Ghost": {
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Ghost (Melzar's Maze)": {
+      "11570": [{
+        "~|Dragon Slayer I|~ 5b2": "Quest"
+      }]
+    },
+    "Giant bat": {
+      "Crandor and Karamja Dungeon#South": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Giant rat (Scurrius)": {
+      "Varrock Sewers": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Goat": {
+      "13617-2": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Guard (Ranging Guild)": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Guardian of Armadyl": {
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 3": "Quest"
+      }]
+    },
+    "Greater demon": {
+      "Chasm of Fire": [{
+        "Greater demon task": "Nonskill"
+      }]
+    },
+    "Greater Nechryael#Wilderness Slayer Cave": {
+      "Wilderness Slayer Cave": [{
+        "Nechryael wilderness task": "Nonskill"
+      }]
+    },
+    "Green dragon": {
+      "11832": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12347-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12601": [{
+        "F2P Only": "Nonskill"
+      }],
+      "13369": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Grip": {
+      "11057": [{
+        "~|Heroes' Quest|~ 1": "Quest"
+      }]
+    },
+    "Grotesque Guardians": {
+      "Grotesque Guardians' Lair": [{
+        "Gargoyle task": "Nonskill"
+      }]
+    },
+    "Guard dog": {
+      "11057": [{
+        "~|Heroes' Quest|~ 1": "Quest"
+      }]
+    },
+    "Hellhound": {
+      "Stronghold Slayer Cave": [{
+        "Hellhound task": "Nonskill"
+      }]
+    },
+    "Icefiend": {
+      "11830-3": [{
+        "F2P Only": "Nonskill"
+      }],
+      "11830-4": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Ice spider": {
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 1": "Quest"
+      }]
+    },
+    "Jelly#Wilderness Slayer Cave": {
+      "Wilderness Slayer Cave": [{
+        "Jelly wilderness task": "Nonskill"
+      }]
+    },
+    "Jubbly bird": {
+      "10542": [{
+        "~|Recipe for Disaster/Freeing Skrach Uglogwee|~ Complete the quest": "Quest"
+      }]
+    },
+    "Jubster": {
+      "Tower of Life#Basement": [{
+        "Jubster": "Nonskill"
+      }]
+    },
+    "Jungle spider": {
+      "11055-1": [{
+        "Chop any type of jungle": "Nonskill"
+      }],
+      "11056": [{
+        "Chop any type of jungle": "Nonskill"
+      }]
+    },
+    "Kalphite Guardian": {
+      "Kalphite Cave": [{
+        "Kalphite task": "Nonskill"
+      }]
+    },
+    "Kalphite Soldier": {
+      "Kalphite Cave": [{
+        "Kalphite task": "Nonskill"
+      }]
+    },
+    "Kalphite Worker": {
+      "Kalphite Cave": [{
+        "Kalphite task": "Nonskill"
+      }]
+    },
+    "Khazard commander": {
+      "10034": [{
+        "~|Tree Gnome Village|~ 3": "Quest"
+      }]
+    },
+    "Khazard warlord": {
+      "9779-1": [{
+        "~|Tree Gnome Village|~ 4": "Quest"
+      }]
+    },
+    "Kraken": {
+      "Kraken Cove": [{
+        "Kraken task": "Nonskill"
+      }]
+    },
+    "Large mosquito": {
+      "11055-1": [{
+        "Chop any type of jungle": "Nonskill"
+      }],
+      "11056": [{
+        "Chop any type of jungle": "Nonskill"
+      }]
+    },
+    "Lava dragon": {
+      "12603-2": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12859-2": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12860": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Lesser demon": {
+      "Chasm of Fire": [{
+        "Lesser demon task": "Nonskill"
+      }],
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 3": "Quest"
+      }]
+    },
+    "Locust": {
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }]
+    },
+    "Long-tailed Wyvern": {
+      "Task Only Wyvern Cave": [{
+        "Fossil Island Wyvern task": "Nonskill"
+      }]
+    },
+    "Lucien": {
+      "12342-1": [{
+        "F2P Only": "Nonskill"
+      }, {
+        "~|Temple of Ikov|~ 3": "Quest"
+      }]
+    },
+    "Magic axe": {
+      "12605": [{
+        "Unlock the ~|door (Magic axe hut)|~": "Thieving"
+      }]
+    },
+    "Mammoth": {
+      "12600": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Man": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Man (level 4)": {
+      "9779-2": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Market Guard (Draynor)": {
+      "12338-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Mogre": {
+      "11824": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Monk of Zamorak": {
+      "13622-1": [{
+        "~|Priest in Peril|~ 3": "Quest"
+      }]
+    },
+    "Mosquito swarm": {
+      "11055-1": [{
+        "Chop any type of jungle": "Nonskill"
+      }],
+      "11056": [{
+        "Chop any type of jungle": "Nonskill"
+      }]
+    },
+    "Myre Blamish Snail#Pointed": {
+      "13619-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Myre Blamish Snail#Rounded": {
+      "13619-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Nechryael": {
+      "Slayer Tower#Basement": [{
+        "Nechryael task": "Nonskill"
+      }]
+    },
+    "Newtroost": {
+      "Tower of Life#Basement": [{
+        "Newtroost": "Nonskill"
+      }]
+    },
+    "Obor": {
+      "Edgeville Dungeon": [{
+        "Giant key": "Nonskill"
+      }]
+    },
+    "Ochre Blamish Snail#Pointed": {
+      "13619-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Ochre Blamish Snail#Rounded": {
+      "13619-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Ogre": {
+      "10036-1": [{
+        "~|Biohazard|~ Complete the quest": "Quest"
+      }]
+    },
+    "Plague frog": {
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }]
+    },
+    "Poison spider": {
+      "13115": [{
+        "F2P Only": "Nonskill"
+      }],
+      "Edgeville Dungeon#Wilderness": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Renegade knight": {
+      "11061": [{
+        "~|Merlin's Crystal|~ 3": "Quest"
+      }]
+    },
+    "Rat": {
+      "9779-2": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "10031": [{
+        "~|Watchtower|~ 11": "Quest"
+      }],
+      "10036-2": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "11570": [{
+        "~|Dragon Slayer I|~ 5b2": "Quest"
+      }]
+    },
+    "Rooster": {
+      "11319-1": [{
+        "~|Death Plateau|~ 6": "Quest"
+      }]
+    },
+    "Rune dragon": {
+      "Lithkren Vault": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }]
+    },
+    "Scorpion": {
+      "10031": [{
+        "~|Watchtower|~ 11": "Quest"
+      }],
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 1": "Quest"
+      }]
+    },
+    "Scurrius": {
+      "Varrock Sewers": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Shipyard worker": {
+      "11823": [{
+        "~|The Grand Tree|~ 3": "Quest"
+      }]
+    },
+    "Sir Mordred": {
+      "11061": [{
+        "~|Merlin's Crystal|~ 3": "Quest"
+      }]
+    },
+    "Skeletal Wyvern": {
+      "Asgarnian Ice Dungeon": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Skeleton#Armed": {
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 1": "Quest"
+      }]
+    },
+    "Skeleton Mage#Level 83": {
+      "9273": [{
+        "~|Swan Song|~ Complete the quest": "Quest"
+      }]
+    },
+    "Skeleton (Melzar's Maze)": {
+      "11570": [{
+        "~|Dragon Slayer I|~ 5b2": "Quest"
+      }]
+    },
+    "Skogre": {
+      "9775-1": [{
+        "~|Zogre Flesh Eaters|~ 1": "Quest"
+      }]
+    },
+    "Skotizo": {
+      "Skotizo's Lair": [{
+        "Dark totem": "Nonskill"
+      }]
+    },
+    "Smoke devil": {
+      "Smoke Devil Dungeon": [{
+        "Smoke devil task": "Nonskill"
+      }]
+    },
+    "Spider": {
+      "10031": [{
+        "~|Watchtower|~ 11": "Quest"
+      }]
+    },
+    "Spidine": {
+      "Tower of Life#Basement": [{
+        "Spidine": "Nonskill"
+      }]
+    },
+    "Spitting Wyvern": {
+      "Task Only Wyvern Cave": [{
+        "Fossil Island Wyvern task": "Nonskill"
+      }]
+    },
+    "Swordchick": {
+      "Tower of Life#Basement": [{
+        "Swordchick": "Nonskill"
+      }]
+    },
+    "Taloned Wyvern": {
+      "Task Only Wyvern Cave": [{
+        "Fossil Island Wyvern task": "Nonskill"
+      }]
+    },
+    "Thermonuclear smoke devil": {
+      "Smoke Devil Dungeon": [{
+        "Smoke devil task": "Nonskill"
+      }]
+    },
+    "Thug": {
+      "12599": [{
+        "F2P Only": "Nonskill"
+      }],
+      "Edgeville Dungeon#Wilderness": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Tower Archer#East": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Tower Archer#North": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Tower Archer#South": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Tower Archer#West": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Tribesman#Tai Bwo Wannai Cleanup": {
+      "11056": [{
+        "Chop any type of jungle": "Nonskill"
+      }]
+    },
+    "Ugthanki": {
+      "13104": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Unicow": {
+      "Tower of Life#Basement": [{
+        "Unicow": "Nonskill"
+      }]
+    },
+    "Vampyre Juvenile": {
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14644-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Vampyre Juvinate": {
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14644-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Vardorvis": {
+      "4405-1": [{
+        "~|Desert Treasure II - The Fallen Empire|~ Complete the quest": "Quest"
+      }]
+    },
+    "Vorkath": {
+      "9023": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }]
+    },
+    "Vyrewatch": {
+      "14385": [{
+        "~|A Taste of Hope|~ 9": "Quest"
+      }],
+      "14386-1": [{
+        "~|A Taste of Hope|~ 9": "Quest"
+      }],
+      "14387-1": [{
+        "~|A Taste of Hope|~ 9": "Quest"
+      }],
+      "14388-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14389-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14644-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14900": [{
+        "~|A Taste of Hope|~ 9": "Quest"
+      }]
+    },
+    "Vyrewatch Sentinel": {
+      "14387-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14388-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14644-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Waterfiend": {
+      "Kraken Cove": [{
+        "Waterfiend task": "Nonskill"
+      }]
+    },
+    "White Knight (Burthorpe)": {
+      "11574-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Wizard": {
+      "10288-1": [{
+        "Access the ~|Wizards' Guild|~": "Magic"
+      }]
+    },
+    "Woman": {
+      "9779-2": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Woman (West Ardougne)": {
+      "9779-2": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Wormbrain": {
+      "12081-1": [{
+        "~|Dragon Slayer I|~ 3": "Quest"
+      }]
+    },
+    "Zogre": {
+      "9775-1": [{
+        "~|Zogre Flesh Eaters|~ 1": "Quest"
+      }]
+    },
+    "Zombie#Armed": {
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Zombie#Unarmed": {
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Zombie pirate": {
+      "12856": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Zombie rat": {
+      "11570": [{
+        "~|Dragon Slayer I|~ 5b2": "Quest"
+      }]
+    }
+  },
+  "NPCs": {
+    "Banker": {
+      "6191-1": [{
+        "Access the ~|Hunter Guild|~": "Hunter"
+      }],
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Leatherworker": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Master Crafter": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Orange salamander": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    },
+    "Tanner": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Trader Crewmember": {
+      "11823": [{
+        "~|The Grand Tree|~ 3": "Quest"
+      }]
+    }
+  },
+  "Objects": {
+    "Adamantite rocks": {
+      "Desert Mining Camp#Underground Mines": [{
+        "~|The Tourist Trap|~ Complete the quest": "Quest"
+      }]
+    },
+    "Allotment patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Altar": {
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }],
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "12086-1": [{
+        "Access the upper floor of the ~|Edgeville Monastery|~": "Prayer"
+      }],
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }]
+    },
+    "Amethyst crystals": {
+      "Mining Guild": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Anima patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Anvil": {
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }],
+      "10036-2": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "10297-1": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }],
+      "11829-1": [{
+        "~|Doric's Quest|~ Complete the quest": "Quest"
+      }],
+      "14644-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "The Warrens": [{
+        "~|The Queen of Thieves|~ 5": "Quest"
+      }]
+    },
+    "Barrel (beer)": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }],
+      "11823": [{
+        "~|The Grand Tree|~ 3": "Quest"
+      }],
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 3": "Quest"
+      }]
+    },
+    "Big Compost Bin": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Blisterwood Tree": {
+      "14388-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Bush Patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Cactus patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Carved redwood": {
+      "6198-1": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }]
+    },
+    "Celastrus patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Chest (Gu'Tanoth)": {
+      "10031": [{
+        "~|Watchtower|~ 11": "Quest"
+      }]
+    },
+    "Chest (Gu'Tanoth, spider)": {
+      "10031": [{
+        "~|Watchtower|~ 11": "Quest"
+      }]
+    },
+    "Clay oven": {
+      "6712-1": [{
+        "~|Kourend and Kebos Diary#Easy|~ Complete the Easy Diary": "Diary"
+      }]
+    },
+    "Clay rocks": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }],
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }],
+      "13617-2": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Coal rocks": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Cooking range": {
+      "12850-1": [{
+        "~|Cook's Assistant|~ Complete the quest": "Quest"
+      }]
+    },
+    "Craft stall": {
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }]
+    },
+    "Dairy churn": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Fire": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Fire#Forester's": {
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Fireplace": {
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Fish stall": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Fishing spot (big net, harpoon)": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Fishing spot (cage, harpoon)": {
+      "9773": [{
+        "~|Dragon Slayer I|~ Complete the quest": "Quest"
+      }],
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Fishing spot (lure, bait)": {
+      "11310-1": [{
+        "~|Shilo Village|~ Complete the quest": "Quest"
+      }]
+    },
+    "Fishing spot (minnow)": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Fishing spot (Piscatoris Fishing Colony)": {
+      "9273": [{
+        "~|Swan Song|~ Complete the quest": "Quest"
+      }]
+    },
+    "Flower Patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Fountain": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }],
+      "14388-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Fruit Tree Patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Fur stall": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Furnace": {
+      "10297-1": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }],
+      "13612-2": [{
+        "~|Beneath Cursed Sands|~ 6a1": "Quest"
+      }]
+    },
+    "Gem rocks": {
+      "11310-1": [{
+        "~|Shilo Village|~ Complete the quest": "Quest"
+      }]
+    },
+    "Gold rocks": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Granite rocks": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    },
+    "Hardwood tree patch": {
+      "6702": [{
+        "~|The Ribbiting Tale of a Lily Pad Labour Dispute|~ Complete the quest": "Quest"
+      }]
+    },
+    "Herb patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Hopper controls": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Magic tree": {
+      "6198-1": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }],
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }],
+      "13363": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Mahogany tree": {
+      "11312": [{
+        "~|Jungle Potion|~ Complete the quest": "Quest"
+      }]
+    },
+    "Maple tree": {
+      "6454": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }],
+      "9773": [{
+        "~|Dragon Slayer I|~ Complete the quest": "Quest"
+      }]
+    },
+    "Mithril rocks": {
+      "Desert Mining Camp#Underground Mines": [{
+        "~|The Tourist Trap|~ Complete the quest": "Quest"
+      }]
+    },
+    "Oak tree": {
+      "9776": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Ogre Coffin": {
+      "9775-1": [{
+        "~|Zogre Flesh Eaters|~ 1": "Nonskill"
+      }]
+    },
+    "Potter's Wheel": {
+      "10297-1": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }],
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }],
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }],
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14644-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Pottery Oven": {
+      "10297-1": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }],
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }],
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Potato": {
+      "11063-5": [{
+        "~|Death Plateau|~ 6": "Quest"
+      }],
+      "11319-1": [{
+        "~|Death Plateau|~ 6": "Quest"
+      }]
+    },
+    "Range": {
+      "9273": [{
+        "~|Swan Song|~ Complete the quest": "Quest"
+      }],
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }],
+      "10291": [{
+        "Unlock the ~|door (Ross' House)|~": "Thieving"
+      }],
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }],
+      "12596": [{
+        "Champions Guild Questpoints": "Nonskill"
+      }],
+      "14387-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14388-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14389-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14644-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Redwood tree": {
+      "6198-1": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }]
+    },
+    "Redwood tree patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Runite rocks": {
+      "Mining Guild": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Sand pit": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Sandstone rocks": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    },
+    "Sawmill": {
+      "6454": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }]
+    },
+    "Seed vault": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Silver rocks": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }],
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Sink": {
+      "9273": [{
+        "~|Swan Song|~ Complete the quest": "Quest"
+      }],
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }],
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }],
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }],
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }],
+      "14387-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14388-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }],
+      "14389-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Spice stall": {
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }]
+    },
+    "Spinning wheel": {
+      "10297-1": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }],
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }],
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }]
+    },
+    "Spirit Tree Patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Spit roast": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "STASH (elite)": {
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "STASH (hard)": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }],
+      "11310-1": [{
+        "~|Shilo Village|~ Complete the quest": "Quest"
+      }],
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }]
+    },
+    "Teak tree": {
+      "11312": [{
+        "~|Jungle Potion|~ Complete the quest": "Quest"
+      }]
+    },
+    "Tin rocks": {
+      "Desert Mining Camp#Underground Mines": [{
+        "~|The Tourist Trap|~ 7": "Quest"
+      }]
+    },
+    "Tree": {
+      "9776": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Tree patch": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Water barrel": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Willow tree": {
+      "9776": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Yew tree": {
+      "6198-1": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }],
+      "6454": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }],
+      "9773": [{
+        "~|Dragon Slayer I|~ Complete the quest": "Quest"
+      }]
+    },
+    "Young tree": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    }
+  },
+  "Shops": {
+    "Aaron's Archery Appendages.": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Ali's Discount Wares.": {
+      "13106-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Allanna's Farming Shop": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Alry the Angler's Angling Accessories": {
+      "5432-1": [{
+        "Access Alry the Angler's shop": "Nonskill"
+      }]
+    },
+    "Amelia's Seed Shop": {
+      "4922": [{
+        "Access the ~|Farming Guild#Beginner tier|~": "Farming"
+      }]
+    },
+    "Armoury": {
+      "10036-1": [{
+        "~|Biohazard|~ Complete the quest": "Quest"
+      }]
+    },
+    "Arnold's Eclectic Supplies.": {
+      "9273": [{
+        "~|Swan Song|~ Complete the quest": "Quest"
+      }]
+    },
+    "Authentic Throwing Weapons.": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Ava's Odds and Ends": {
+      "12340-1": [{
+        "F2P Only": "Nonskill"
+      }, {
+        "~|Animal Magnetism|~ Complete the quest": "Quest"
+      }]
+    },
+    "Battle Runes#Pre-miniquest": {
+      "12343-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Battle Runes#Post-miniquest": {
+      "12343-1": [{
+        "F2P Only": "Nonskill"
+      }, {
+        "~|Enter the Abyss|~ Complete the quest": "Quest"
+      }]
+    },
+    "The Big Heist Lodge": {
+      "12590-1": [{
+        "~|Desert Treasure I|~ Complete the quest": "Quest"
+      }]
+    },
+    "Blades by Urbi.": {
+      "13099-1": [{
+        "~|Contact!|~ Complete the quest": "Quest"
+      }]
+    },
+    "Bounty Hunter Store": {
+      "13631": [{
+        "Access Bounty Hunter Store": "Nonskill"
+      }]
+    },
+    "The Crypt": {
+      "14389-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Construction supplies": {
+      "6454": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }],
+      "13110-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Crossbow Shop (Dwarven Mine)": {
+      "Dwarven Mine": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#Food": {
+      "RFD Dining Room": [{
+        "~|Recipe for Disaster/Another Cook's Quest|~ Complete the quest": "Quest"
+      }]
+    },
+    "Culinaromancer's Chest#0 Subquests": {
+      "RFD Dining Room": [{
+        "~|Recipe for Disaster/Another Cook's Quest|~ Complete the quest": "Quest"
+      }]
+    },
+    "Culinaromancer's Chest#1 Subquests": {
+      "RFD Dining Room": [{
+        "RFD Chest 1 Subquest": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#2 Subquests": {
+      "RFD Dining Room": [{
+        "RFD Chest 2 Subquest": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#3 Subquests": {
+      "RFD Dining Room": [{
+        "RFD Chest 3 Subquest": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#4 Subquests": {
+      "RFD Dining Room": [{
+        "RFD Chest 4 Subquest": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#5 Subquests": {
+      "RFD Dining Room": [{
+        "RFD Chest 5 Subquest": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#6 Subquests": {
+      "RFD Dining Room": [{
+        "RFD Chest 6 Subquest": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#7 Subquests": {
+      "RFD Dining Room": [{
+        "RFD Chest 7 Subquest": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#8 Subquests": {
+      "RFD Dining Room": [{
+        "RFD Chest 8 Subquest": "Nonskill"
+      }]
+    },
+    "Culinaromancer's Chest#Full": {
+      "RFD Dining Room": [{
+        "~|Recipe for Disaster/Defeating the Culinaromancer|~ Complete the quest": "Quest"
+      }]
+    },
+    "Dal's General Ogre Supplies": {
+      "10031": [{
+        "~|Watchtower|~ Complete the quest": "Quest"
+      }]
+    },
+    "Dargaud's Bow and Arrows.": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Darkmeyer General Store": {
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Darkmeyer Lantern Shop": {
+      "14388-2": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Darkmeyer Meat Shop": {
+      "14388-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Darkmeyer Seamstress": {
+      "14388-1": [{
+        "~|Sins of the Father|~ Complete the quest": "Quest"
+      }]
+    },
+    "Draynor Seed Market": {
+      "12338-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Fairy Fixit's Fairy Enchantment": {
+      "Zanaris": [{
+        "~|Fairytale II - Cure a Queen|~ Complete the quest": "Quest"
+      }]
+    },
+    "Fancy Clothes Store": {
+      "13109-3": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Farmer Gricoller's Rewards": {
+      "7222": [{
+        "Grow a ~|golovanova fruit|~": "Farming"
+      }]
+    },
+    "Farming shops": {
+      "6702": [{
+        "~|The Ribbiting Tale of a Lily Pad Labour Dispute|~ Complete the quest": "Quest"
+      }],
+      "11060-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "11317-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "11570": [{
+        "F2P Only": "Nonskill"
+      }],
+      "11573-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "11828-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12082-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12083-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12594-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12596-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12851-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12854-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "13106-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Fernahei's Fishing Hut.": {
+      "11310-1": [{
+        "~|Shilo Village|~ Complete the quest": "Quest"
+      }]
+    },
+    "Fishing Guild Shop.": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Fremennik Fish Monger": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Fremennik Fur Trader": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Frincos' Fabulous Herb Store.": {
+      "11060-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Gabooty's Tai Bwo Wannai Cooperative.": {
+      "11055-2": [{
+        "~|Jungle Potion|~ Complete the quest": "Quest"
+      }]
+    },
+    "Gabooty's Tai Bwo Wannai Drinky Store.": {
+      "11055-2": [{
+        "~|Jungle Potion|~ Complete the quest": "Quest"
+      }]
+    },
+    "Gaius' Two Handed Shop.": {
+      "11573-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Garden Centre": {
+      "12084-2": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Giants' Foundry Reward Shop": {
+      "Giants' Foundry": [{
+        "~|Sleeping Giants|~ Complete the quest": "Quest"
+      }]
+    },
+    "Grace's Graceful Clothing": {
+      "Rogues' Den": [{
+        "Access Grace's shop": "Nonskill"
+      }]
+    },
+    "Grud's Herblore Stall.": {
+      "10031": [{
+        "~|Watchtower|~ Complete the quest": "Quest"
+      }]
+    },
+    "Happy Heroes' H'emporium.": {
+      "11574-1": [{
+        "~|Heroes' Quest|~ Complete the quest": "Quest"
+      }]
+    },
+    "Harry's Fishing Shop.": {
+      "11317-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Hickton's Archery Emporium.": {
+      "11317-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Imia's Supplies": {
+      "6191-1": [{
+        "Access the ~|Hunter Guild|~": "Hunter"
+      }]
+    },
+    "Irksol (shop)": {
+      "Zanaris": [{
+        "Access Zanaris Marketplace": "Nonskill"
+      }]
+    },
+    "Jamila's Craft Stall.": {
+      "13099-1": [{
+        "~|Contact!|~ Complete the quest": "Quest"
+      }]
+    },
+    "Jatix's Herblore Shop.": {
+      "11573-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Justine's stuff for the Last Shopper Standing": {
+      "12600": [{
+        "Access Justine's shop": "Nonskill"
+      }]
+    },
+    "Jukat (shop)": {
+      "Zanaris": [{
+        "Access Zanaris Marketplace": "Nonskill"
+      }]
+    },
+    "Leagues Reward Shop": {
+      "12850-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Legends Guild General Store.": {
+      "10804": [{
+        "~|Legends' Quest|~ Complete the quest": "Quest"
+      }]
+    },
+    "Legends Guild Shop of Useful Items.": {
+      "10804": [{
+        "~|Legends' Quest|~ Complete the quest": "Quest"
+      }]
+    },
+    "The Lighthouse Store": {
+      "10040": [{
+        "~|Horror from the Deep|~ Complete the quest": "Quest"
+      }]
+    },
+    "Mage Arena Staffs.": {
+      "Mage Arena bank": [{
+        "~|Mage Arena I|~ Complete the quest": "Quest"
+      }]
+    },
+    "Magic Guild Store (Mystic Robes)": {
+      "10288-1": [{
+        "Access the ~|Wizards' Guild|~": "Magic"
+      }]
+    },
+    "Magic Guild Store (Runes and Staves)": {
+      "10288-1": [{
+        "~|The Hand in the Sand|~ Complete the quest": "Quest"
+      }, {
+        "Access the ~|Wizards' Guild|~": "Magic"
+      }]
+    },
+    "Mahogany Homes Reward Shop": {
+      "11828-1": [{
+        "Access the Mahogany Homes Reward Shop": "Nonskill"
+      }]
+    },
+    "Martin Thwait's Lost and Found.": {
+      "Rogues' Den": [{
+        "Access ~|Martin Thwait|~'s shop": "Nonskill"
+      }]
+    },
+    "Mining Guild Mineral Exchange": {
+      "Mining Guild": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Multicannon parts for sale": {
+      "12085-2": [{
+        "~|Dwarf Cannon|~ Complete the quest": "Quest"
+      }]
+    },
+    "Mythical Cape Store": {
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }]
+    },
+    "Myths' Guild Armoury": {
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }]
+    },
+    "Myths' Guild Herbalist": {
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }]
+    },
+    "Myths' Guild Weaponry": {
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }]
+    },
+    "Nardok's Bone Weapons": {
+      "Dorgesh-Kaan mine": [{
+        "~|The Lost Tribe|~ Complete the quest": "Quest"
+      }]
+    },
+    "Nathifa's Bake Stall.": {
+      "13099-1": [{
+        "~|Contact!|~ Complete the quest": "Quest"
+      }]
+    },
+    "Obli's General Store.": {
+      "11310-1": [{
+        "~|Shilo Village|~ Complete the quest": "Quest"
+      }]
+    },
+    "Oziach (shop)": {
+      "12086-2": [{
+        "~|Dragon Slayer I|~ Complete the quest": "Quest"
+      }]
+    },
+    "Paramaya Inn": {
+      "11310-1": [{
+        "~|Shilo Village|~ Complete the quest": "Quest"
+      }]
+    },
+    "Pellem's Fur Store": {
+      "6191-1": [{
+        "Access the ~|Hunter Guild|~": "Hunter"
+      }]
+    },
+    "Perry's Chop-chop Shop": {
+      "6454": [{
+        "Access the ~|Woodcutting Guild|~": "Woodcutting"
+      }]
+    },
+    "Pie Shop": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }, {
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "PvP Arena Rewards": {
+      "13106-1": [{
+        "Participate in the PvP Arena": "Nonskill"
+      }]
+    },
+    "Raetul and Co's Cloth Store.": {
+      "13099-1": [{
+        "~|Icthlarin's Little Helper|~ 2": "Quest"
+      }]
+    },
+    "Ranging Guild Ticket Exchange": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Rellekka Longhall Bar": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Sarah's Farming shop.": {
+      "12083-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Scavvo's Rune Store.": {
+      "12596-1": [{
+        "Champions Guild Questpoints": "Nonskill"
+      }]
+    },
+    "Slayer Equipment (shop)": {
+      "11310-1": [{
+        "~|Shilo Village|~ Complete the quest": "Quest"
+      }],
+      "12342-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "Edgeville Dungeon": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Shantay Pass Shop": {
+      "13104": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Shop of Distaste": {
+      "13363": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Sigmund the Merchant (shop)": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Sir Tiffy Cashien (Recruitment Drive)": {
+      "11828-1": [{
+        "~|Recruitment Drive|~ Complete the quest": "Quest"
+      }]
+    },
+    "Sir Tiffy Cashien (The Slug Menace)": {
+      "11828-1": [{
+        "~|The Slug Menace|~ Complete the quest": "Quest"
+      }]
+    },
+    "Skulgrimen's Battle Gear": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    },
+    "Tamayu's Spear Stall": {
+      "11055-2": [{
+        "~|Tai Bwo Wannai Trio|~ Complete the quest": "Quest"
+      }]
+    },
+    "Temple Supplies": {
+      "Temple of the Eye": [{
+        "Participate in ~|Guardians of the Rift|~": "Runecraft"
+      }]
+    },
+    "Tiadeche's Karambwan Stall": {
+      "11055-2": [{
+        "~|Tai Bwo Wannai Trio|~ Complete the quest": "Quest"
+      }]
+    },
+    "The Spice Is Right.": {
+      "13099-1": [{
+        "~|Contact!|~ Complete the quest": "Quest"
+      }]
+    },
+    "Trader Stan's Trading Post": {
+      "10284-1": [{
+        "F2P Only": "Nonskill"
+      }],
+      "11823": [{
+        "~|The Grand Tree|~ 3": "Quest"
+      }],
+      "11825-2": [{
+        "F2P Only": "Nonskill"
+      }],
+      "12081-2": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "~ Uglug's stuffsies ~": {
+      "9775-1": [{
+        "~|Zogre Flesh Eaters|~ 8": "Nonskill"
+      }]
+    },
+    "Valaine's Shop of Champions.": {
+      "12596-1": [{
+        "Champions Guild Questpoints": "Nonskill"
+      }]
+    },
+    "West Ardougne General Store": {
+      "9779-2": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "White Knight Armoury": {
+      "11828-1": [{
+        "~|Wanted!|~ Complete the quest": "Quest"
+      }]
+    },
+    "Yrsa's Accoutrements": {
+      "10553": [{
+        "~|The Fremennik Trials|~ Complete the quest": "Quest"
+      }]
+    }
+  },
+  "Spawns": {
+    "Amulet mould": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Ball": {
+      "11574-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Big fishing net": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Bird snare": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    },
+    "Bones": {
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 1": "Quest"
+      }]
+    },
+    "Bowl": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Bracelet mould": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Broken arrow": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }],
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 1": "Quest"
+      }]
+    },
+    "Bronze arrow": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Bronze arrowtips": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Bronze nails": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    },
+    "Bronze pickaxe": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }],
+      "Desert Mining Camp#Underground Mines": [{
+        "~|The Tourist Trap|~ 7": "Quest"
+      }]
+    },
+    "Burnt fish (anchovies)": {
+      "9772": [{
+        "~|Dragon Slayer II|~ Complete the quest": "Quest"
+      }]
+    },
+    "Cake tin": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Cattleprod": {
+      "10292": [{
+        "~|Sheep Herder|~ 1": "Quest"
+      }]
+    },
+    "Chisel": {
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }],
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    },
+    "Chocolate bar": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Cooking apple": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Cup of tea": {
+      "11573-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Damaged armour": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Diary (Witch's House)": {
+      "11574-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Grapes": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Hammer": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }],
+      "11823": [{
+        "~|The Grand Tree|~ 3": "Quest"
+      }]
+    },
+    "Harpoon": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Holy mould": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Jug": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }],
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "King worm": {
+      "11573-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Knife": {
+      "10035-1": [{
+        "~|Plague City|~ 5": "Quest"
+      }],
+      "12349": [{
+        "Slash a web": "Nonskill"
+      }]
+    },
+    "Lever (Temple of Ikov)": {
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 1": "Quest"
+      }]
+    },
+    "Lobster pot": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Longbow": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Mithril arrow": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Monk's robe top": {
+      "12086-1": [{
+        "Access the upper floor of the ~|Edgeville Monastery|~": "Prayer"
+      }]
+    },
+    "Monk's robe": {
+      "12086-1": [{
+        "Access the upper floor of the ~|Edgeville Monastery|~": "Prayer"
+      }]
+    },
+    "Necklace mould": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Oak shield": {
+      "10549": [{
+        "Access the ~|Ranging Guild|~": "Ranged"
+      }]
+    },
+    "Papyrus": {
+      "10804": [{
+        "~|Legends' Quest|~ 1": "Quest"
+      }]
+    },
+    "Pie dish": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Plank": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    },
+    "Pot": {
+      "12597-1": [{
+        "Access the ~|Cooks' Guild|~": "Cooking"
+      }]
+    },
+    "Red spiders' eggs": {
+      "Edgeville Dungeon#Wilderness": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Ring mould": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Rotten apple": {
+      "10036-2": [{
+        "~|Plague City|~ 5": "Quest"
+      }]
+    },
+    "Ruby ring": {
+      "Varrock West Bank#Basement": [{
+        "Complete Crack The Clue III*": "Nonskill"
+      }]
+    },
+    "Shears": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Shiny key": {
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 3": "Quest"
+      }]
+    },
+    "Shortbow": {
+      "11573-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Small fishing net": {
+      "10293": [{
+        "Access the ~|fishing guild|~": "Fishing"
+      }]
+    },
+    "Staff of armadyl": {
+      "Temple of Ikov": [{
+        "~|Temple of Ikov|~ 3": "Quest"
+      }]
+    },
+    "Steel arrowtips": {
+      "Edgeville Dungeon#Wilderness": [{
+        "Access the monkey bars under Edgeville ~|shortcut|~": "Agility"
+      }]
+    },
+    "Swamp toad (item)": {
+      "11573-1": [{
+        "F2P Only": "Nonskill"
+      }]
+    },
+    "Tiara mould": {
+      "11571-1": [{
+        "Access the ~|Crafting Guild|~": "Crafting"
+      }]
+    },
+    "Waterskin(4)": {
+      "13098-1": [{
+        "~|Beneath Cursed Sands|~ 3": "Quest"
+      }]
+    }
+  }
+}

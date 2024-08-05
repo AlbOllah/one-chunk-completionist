@@ -1,0 +1,40 @@
+{
+  "Axe[+]": {
+    "Bronze axe": 1,
+    "Bronze felling axe": 1,
+    "Iron axe": 1,
+    "Iron felling axe": 1,
+    "Steel axe": 6,
+    "Steel felling axe": 6,
+    "Black axe": 11,
+    "Black felling axe": 11,
+    "Mithril axe": 21,
+    "Mithril felling axe": 21,
+    "Adamant axe": 31,
+    "Adamant felling axe": 31,
+    "Rune axe": 41,
+    "Rune felling axe": 41,
+    "Gilded axe": 41,
+    "Dragon axe": 61,
+    "Dragon felling axe": 61,
+    "3rd age axe": 61,
+    "3rd age felling axe": 61,
+    "Infernal axe": 61,
+    "Crystal axe": 71,
+    "Crystal felling axe": 71
+  },
+  "Pickaxe[+]": {
+    "Bronze pickaxe": 1,
+    "Iron pickaxe": 1,
+    "Steel pickaxe": 6,
+    "Black pickaxe": 11,
+    "Mithril pickaxe": 21,
+    "Adamant pickaxe": 31,
+    "Rune pickaxe": 41,
+    "Gilded pickaxe": 41,
+    "Dragon pickaxe": 61,
+    "3rd age pickaxe": 61,
+    "Infernal pickaxe": 61,
+    "Crystal pickaxe": 71
+  }
+}
