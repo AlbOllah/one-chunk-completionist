@@ -59,7 +59,6 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 		if (gameStateChanged.getGameState() == GameState.LOGGED_IN) {
 			//client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "Example says " + config.greeting(), null);
 			//chunkTasksManager.loadChunkTasks();
-			uiPanel.get().reload();
 		}
 	}
 

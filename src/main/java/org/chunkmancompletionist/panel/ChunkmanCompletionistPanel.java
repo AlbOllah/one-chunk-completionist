@@ -49,14 +49,6 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
     private final ImageIcon backlogIcon = new ImageIcon(ImageUtil.loadImageResource(TimeTrackingPlugin.class, "lap_icon.png"));
     private final ImageIcon infoIcon = new ImageIcon(ImageUtil.loadImageResource(InfoPlugin.class, "info_icon.png"));
 
-    private Map<String, Chunk> chunks;
-    private Map<String, Map<String, SkillChallenge>> skillChallenges;
-    private Map<String, NonSkillChallenge> nonSkillChallenges;
-    private Map<String, QuestChallenge> questChallenges;
-    private Map<String, DiaryChallenge> diaryChallenges;
-    private Map<String, CombatChallenge> combatChallenges;
-    private Map<String, ExtraChallenge> extraChallenges;
-
     private MaterialTab currentTab;
     private boolean shouldForceReload;
 
@@ -67,8 +59,6 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
 
         this.iconManager = iconManager;
         this.completionist = chunkmanCompletionist;
-
-        init();
 
         setBorder(new EmptyBorder(10, 10, 10, 10));
         setLayout(new GridBagLayout());
@@ -92,16 +82,6 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
 
         add(completionist, c);
         c.gridy++;
-    }
-
-    public void init() {
-        chunks = loadFromFile("/chunks.json", new TypeToken<>() {});
-        skillChallenges = loadFromFile("/challenges-skill.json", new TypeToken<>() {});
-        nonSkillChallenges = loadFromFile("/challenges-non-skill.json", new TypeToken<>() {});
-        questChallenges = loadFromFile("/challenges-quest.json", new TypeToken<>() {});
-        diaryChallenges = loadFromFile("/challenges-diary.json", new TypeToken<>() {});
-        combatChallenges = loadFromFile("/challenges-combat.json", new TypeToken<>() {});
-        extraChallenges = loadFromFile("/challenges-extra.json", new TypeToken<>() {});
     }
 
     private void addTabButtons() {
@@ -133,11 +113,5 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
             shouldForceReload = true;
             SwingUtilities.invokeLater(() -> tabGroup.select(currentTab));
         }
-    }
-
-    private <T> T loadFromFile(String resourceName, TypeToken<T> tokenType) {
-        InputStream stream = ChunkmanCompletionistPanel.class.getResourceAsStream(resourceName);
-        Reader reader = new InputStreamReader(stream, StandardCharsets.UTF_8);
-        return GSON.fromJson(reader, tokenType.getType());
     }
 }
