@@ -2,6 +2,7 @@ package org.chunkmancompletionist.panel;
 
 import com.google.inject.Singleton;
 import com.google.gson.reflect.TypeToken;
+import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.Skill;
 import net.runelite.client.callback.ClientThread;
@@ -41,7 +42,7 @@ import static net.runelite.http.api.RuneLiteAPI.GSON;
 public class ChunkmanCompletionistPanel extends PluginPanel {
     private final ChunkmanCompletionist completionist;
     private final SkillIconManager iconManager;
-    private final MaterialTabGroup tabGroup;
+    @Getter private final MaterialTabGroup tabGroup;
     private final ImageIcon configIcon = new ImageIcon(ImageUtil.loadImageResource(ConfigPlugin.class, "pluginhub_configure.png"));
     private final ImageIcon rulesIcon = new ImageIcon(ImageUtil.loadImageResource(InfoPlugin.class, "wiki_icon.png"));
     private final ImageIcon chunkIcon = new ImageIcon(ImageUtil.loadImageResource(WorldHopperPlugin.class, "icon.png"));
@@ -82,14 +83,17 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
 
         add(completionist, c);
         c.gridy++;
+
+        revalidate();
+        repaint();
     }
 
     private void addTabButtons() {
-        tabGroup.addTab(createTab(ChunkmanTabType.SETTINGS, configIcon));
-        tabGroup.addTab(createTab(ChunkmanTabType.RULES, rulesIcon));
-        tabGroup.addTab(createTab(ChunkmanTabType.CHUNK, chunkIcon));
         tabGroup.addTab(createTab(ChunkmanTabType.TASKS, tasksIcon));
         tabGroup.addTab(createTab(ChunkmanTabType.BACKLOG, backlogIcon));
+        tabGroup.addTab(createTab(ChunkmanTabType.RULES, rulesIcon));
+        tabGroup.addTab(createTab(ChunkmanTabType.CHUNK, chunkIcon));
+        tabGroup.addTab(createTab(ChunkmanTabType.SETTINGS, configIcon));
         tabGroup.addTab(createTab(ChunkmanTabType.INFO, infoIcon));
     }
 
@@ -100,7 +104,6 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
             completionist.openTab(type, shouldForceReload);
             currentTab = tab;
             shouldForceReload = false;
-            log.info(tab.getName());
 
             return true;
         });
@@ -113,5 +116,9 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
             shouldForceReload = true;
             SwingUtilities.invokeLater(() -> tabGroup.select(currentTab));
         }
+    }
+
+    public ChunkmanCompletionist getCompletionist() {
+        return completionist;
     }
 }

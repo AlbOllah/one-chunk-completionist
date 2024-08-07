@@ -2,10 +2,11 @@ package org.chunkmancompletionist.types;
 
 public enum TaskGroup {
     SKILL ("Skill"),
-    BIS ("Best in Slot"),
+    NON_SKILL ("Non Skill"),
     QUEST ("Quest"),
     DIARY ("Diary"),
-    OTHER ("Other");
+    COMBAT("Combat"),
+    EXTRA ("Other");
 
     private final String displayText;
 

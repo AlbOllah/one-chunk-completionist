@@ -18,12 +18,13 @@ import net.runelite.client.ui.NavigationButton;
 import net.runelite.client.util.ImageUtil;
 import org.chunkmancompletionist.managers.ChunkTasksManager;
 import org.chunkmancompletionist.panel.ChunkmanCompletionistPanel;
+import org.chunkmancompletionist.types.ChunkmanTabType;
 
 import java.awt.image.BufferedImage;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Chunkman Completionist"
+		name = "Chunkman Completionist"
 )
 public class ChunkmanCompletionistPlugin extends Plugin {
 	@Inject private Client client;
@@ -31,6 +32,7 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 	@Inject private ChunkmanCompletionistConfig config;
 	@Inject private Provider<ChunkmanCompletionistPanel> uiPanel;
 	@Inject private ChunkTasksManager chunkTasksManager;
+	@Inject private ChunkmanCompletionist completionist;
 
 	private NavigationButton uiNavigationButton;
 	private boolean lastWorldWasMembers;
@@ -57,8 +59,10 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 	@Subscribe
 	public void onGameStateChanged(GameStateChanged gameStateChanged) {
 		if (gameStateChanged.getGameState() == GameState.LOGGED_IN) {
-			//client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "Example says " + config.greeting(), null);
-			//chunkTasksManager.loadChunkTasks();
+			completionist.loadProfile();
+			completionist.openTab(ChunkmanTabType.SETTINGS, true);
+		} else if (gameStateChanged.getGameState() == GameState.LOGIN_SCREEN) {
+			completionist.unloadProfile();
 		}
 	}
 

@@ -2,6 +2,7 @@ package org.chunkmancompletionist;
 
 import com.google.gson.reflect.TypeToken;
 import com.google.inject.Inject;
+import com.google.inject.Provider;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.Client;
 import net.runelite.client.callback.ClientThread;
@@ -11,8 +12,10 @@ import net.runelite.client.ui.ColorScheme;
 import net.runelite.client.ui.DynamicGridLayout;
 import net.runelite.client.ui.PluginPanel;
 import net.runelite.client.ui.components.IconTextField;
+import org.chunkmancompletionist.managers.ChunkTasksManager;
 import org.chunkmancompletionist.panel.ChunkMapWindow;
 import org.chunkmancompletionist.panel.ChunkmanCompletionistPanel;
+import org.chunkmancompletionist.panel.SettingsPanel;
 import org.chunkmancompletionist.panel.UITaskSlot;
 import org.chunkmancompletionist.types.*;
 
@@ -33,6 +36,11 @@ import static net.runelite.http.api.RuneLiteAPI.GSON;
 
 @Slf4j
 public class ChunkmanCompletionist extends JPanel {
+    @Inject private ChunkTasksManager manager;
+    @Inject private Provider<SettingsPanel> settingsPanelProvider;
+
+    @Inject private Provider<ChunkmanCompletionistPanel> completionistPanelProvider;
+
     private Map<String, Chunk> chunks;
     private Map<String, Map<String, SkillChallenge>> skillChallenges;
     private Map<String, NonSkillChallenge> nonSkillChallenges;
@@ -87,7 +95,24 @@ public class ChunkmanCompletionist extends JPanel {
 
             add(searchBar);
 
-            renderTaskList();
+            if(type == ChunkmanTabType.TASKS || type == ChunkmanTabType.BACKLOG) {
+                if(manager.getProfile().startingChunk == 0) {
+                    add(createGeneralInfoLabel());
+                } else if(manager.getProfile().chunks.size() == 0) {
+                    add(createStartButton());
+                } else {
+                    renderTaskList();
+                }
+            } else if(type == ChunkmanTabType.SETTINGS) {
+                taskSlotList.clear();
+
+                add(settingsPanelProvider.get());
+            } else {
+                taskSlotList.clear();
+            }
+
+            revalidate();
+            repaint();
         }
     }
 
@@ -135,6 +160,30 @@ public class ChunkmanCompletionist extends JPanel {
         taskSlotList.forEach(this::add);
         revalidate();
         repaint();
+    }
+
+    public JLabel createGeneralInfoLabel() {
+        JLabel infoLabel = new JLabel();
+        infoLabel.setText("<html>Log in to load chunk tasks</html>");
+
+        return infoLabel;
+    }
+
+    public JButton createStartButton() {
+        JButton button = new JButton();
+        button.setText("Haha");
+
+        return button;
+    }
+
+    public void unloadProfile() {
+        manager.unload();
+        settingsPanelProvider.get().updateFields();
+    }
+
+    public void loadProfile() {
+        manager.init();
+        settingsPanelProvider.get().updateFields();
     }
 
     private <T> T loadFromFile(String resourceName, TypeToken<T> tokenType) {
