@@ -16,4 +16,5 @@ public class Chunk {
     public Map<String, Boolean> Shop = new HashMap<>();
     public String Nickname = "";
     public String Name = "";
+    public String chunkId = "";
 }

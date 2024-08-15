@@ -1,5 +1,6 @@
 package org.chunkmancompletionist;
 
+import com.google.gson.reflect.TypeToken;
 import com.google.inject.Provider;
 import com.google.inject.Provides;
 import javax.inject.Inject;
@@ -18,9 +19,14 @@ import net.runelite.client.ui.NavigationButton;
 import net.runelite.client.util.ImageUtil;
 import org.chunkmancompletionist.managers.ChunkTasksManager;
 import org.chunkmancompletionist.panel.ChunkmanCompletionistPanel;
+import org.chunkmancompletionist.types.ChunkInfo;
 import org.chunkmancompletionist.types.ChunkmanTabType;
 
 import java.awt.image.BufferedImage;
+import java.io.*;
+import java.nio.charset.StandardCharsets;
+
+import static net.runelite.http.api.RuneLiteAPI.GSON;
 
 @Slf4j
 @PluginDescriptor(
@@ -49,6 +55,9 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 				.build();
 
 		clientToolbar.addNavigation(uiNavigationButton);
+
+		ChunkInfo chunkInfo = loadFromFile("/chunkinfo.json", new TypeToken<>(){});
+		chunkInfo.save();
 	}
 
 	@Override
@@ -69,5 +78,21 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 	@Provides
 	ChunkmanCompletionistConfig provideConfig(ConfigManager configManager) {
 		return configManager.getConfig(ChunkmanCompletionistConfig.class);
+	}
+
+	private <T> T loadFromFile(String resourceName, TypeToken<T> tokenType) {
+		InputStream stream = ChunkmanCompletionistPanel.class.getResourceAsStream(resourceName);
+		Reader reader = new InputStreamReader(stream, StandardCharsets.UTF_8);
+		return GSON.fromJson(reader, tokenType.getType());
+	}
+
+	private <T> void saveToFileDev(File file, T data) {
+		try {
+			PrintWriter writer = new PrintWriter(file);
+			writer.println(GSON.toJson(data));
+			writer.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 }
