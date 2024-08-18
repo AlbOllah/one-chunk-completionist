@@ -27,6 +27,7 @@ import net.runelite.client.util.ImageUtil;
 import org.chunkmancompletionist.managers.ChunkTasksManager;
 import org.chunkmancompletionist.panel.ChunkMapWindow;
 import org.chunkmancompletionist.panel.ChunkmanCompletionistPanel;
+import org.chunkmancompletionist.types.ChunkInfo;
 import org.chunkmancompletionist.types.ChunkTaskCalculateMessage;
 import org.chunkmancompletionist.types.ChunkTaskCalculatorMessage;
 import org.chunkmancompletionist.types.ChunkmanTabType;
