@@ -5293,7 +5293,7 @@
   "7221": {
     "Sections": {
       "1": {
-        "Spawns": {
+        "Spawn": {
           "Seaweed": 10
         }
       },
