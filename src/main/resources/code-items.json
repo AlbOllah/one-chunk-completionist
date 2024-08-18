@@ -1,6 +1,6 @@
 {
-  "BoneItems": ["Bones", "Burnt bones", "Wolf bones", "Bleached bones", "Monkey bones", "Bat bones", "Big bones", "Jogre bones", "Zogre bones", "Shaikahan bones", "Babydragon bones", "Wyrm bones", "Wyrmling bones", "Dragon bones", "Wyvern bones", "Drake bones", "Fayrg bones", "Lava dragon bones", "Raurg bones", "Hydra bones", "Dagannoth bones", "Ourg bones", "Fiendish ashes", "Vile ashes", "Malicious ashes", "Abyssal ashes", "Infernal ashes"],
-  "ChunksPlus": {
+  "boneItems": ["Bones", "Burnt bones", "Wolf bones", "Bleached bones", "Monkey bones", "Bat bones", "Big bones", "Jogre bones", "Zogre bones", "Shaikahan bones", "Babydragon bones", "Wyrm bones", "Wyrmling bones", "Dragon bones", "Wyvern bones", "Drake bones", "Fayrg bones", "Lava dragon bones", "Raurg bones", "Hydra bones", "Dagannoth bones", "Ourg bones", "Fiendish ashes", "Vile ashes", "Malicious ashes", "Abyssal ashes", "Infernal ashes"],
+  "chunksPlus": {
     "10Coin[+]": ["10547-1", "10291", "12605", "10553"],
     "50Coin[+]": ["10547-1", "Mourner Tunnels & Temple of Light"],
     "Banana Trees[+]": ["11569-1", "10795-1"],
@@ -156,7 +156,7 @@
     "KandarinHard3[+]": ["10806-1", "11061"],
     "WildernessMedium9[+]": ["12342-1", "12598"]
   },
-  "ChunksPlusNames": {
+  "chunksPlusNames": {
     "10Coin[+]": "Any chunk with a 10-coin chest",
     "50Coin[+]": "Any chunk with a 50-coin chest",
     "Banana Trees[+]": "Any chunk with a pickable banana tree",
@@ -312,7 +312,7 @@
     "KandarinHard3[+]": "Any chunk with a Seers' Village yew tree",
     "WildernessMedium9[+]": "Either chunk near Edgeville with the emblem trader"
   },
-  "DropTables": {
+  "dropTables": {
     "AllotmentSeedDropTable+": {
       "Cabbage seed": "1/8@1-3",
       "Onion seed": "1/4@1-3",
@@ -525,8 +525,8 @@
       "Grimy torstol": "1/5.333@1 (noted)"
     }
   },
-  "ElementalRunes": ["Air rune", "Water rune", "Earth rune", "Fire rune"],
-  "ElementalStaves": {
+  "elementalRunes": ["Air rune", "Water rune", "Earth rune", "Fire rune"],
+  "elementalStaves": {
     "Air battlestaff": ["Air rune"],
     "Dust battlestaff": ["Earth rune", "Air rune"],
     "Earth battlestaff": ["Earth rune"],
@@ -553,7 +553,7 @@
     "Steam battlestaff": ["Fire rune", "Water rune"],
     "Water battlestaff": ["Water rune"]
   },
-  "ItemsPlus": {
+  "itemsPlus": {
     "Adamant armour[+]": ["Adamant boots", "Adamant med helm", "Adamant full helm", "Adamant sq shield", "Adamant plateskirt", "Adamant kiteshield", "Adamant platelegs", "Adamant chainbody", "Adamant platebody"],
     "AdamantWep[+]": ["Adamant dagger", "Adamant pickaxe", "Adamant axe", "Adamant mace", "Adamant sword", "Adamant scimitar", "Adamant longsword", "Adamant battleaxe", "Adamant claws", "Adamant spear", "Adamant 2h sword"],
     "Agility potion[+]": ["Agility potion(1)", "Agility potion(2)", "Agility potion(3)", "Agility potion(4)"],
@@ -906,7 +906,7 @@
     "CrossbowBallista[+]": ["Bronze crossbow", "Blurite crossbow", "Iron crossbow", "Steel crossbow", "Mithril crossbow", "Adamant crossbow", "Rune crossbow", "Dragon crossbow", "Crossbow", "Phoenix crossbow", "Dorgeshuun crossbow", "Hunters' crossbow", "Karil's crossbow", "Dragon hunter crossbow", "Armadyl crossbow", "Zaryte crossbow", "Light ballista", "Heavy ballista"],
     "Arclight[+]": ["Arclight", "Emberlight"]
   },
-  "ItemsPlusNames": {
+  "itemsPlusNames": {
     "Adamant armour[+]": "Any adamant armour piece",
     "AdamantWep[+]": "Any adamant weapon",
     "Agility potion[+]": "Any agility potion",
@@ -1258,17 +1258,17 @@
     "CrossbowBallista[+]": "Any crossbow or ballista",
     "Arclight[+]": "Either arclight or emberlight"
   },
-  "MixPlus": {
+  "mixPlus": {
     "Citizen[+]": ["Man", "Drunken man", "Hengel", "Cuffs", "Narf", "Jeff", "Rusty", "Woman", "Anja", "Woman (East Ardougne)", "Citizen (Varlamore)", "Tourist"],
     "Farmer[+]": ["Farmer", "Farmer (Varlamore)"],
     "Fremennik citizen[+]": ["Agnar", "Freygerd", "Inga", "Pontak", "Sassilik", "Borrokar", "Freidir", "Jennella", "Lanzig", "Lensa"]
   },
-  "MixPlusNames": {
+  "mixPlusNames": {
     "Citizen[+]": "Any pickpocketable citizen",
     "Farmer[+]": "Any pickpocketable farmer",
     "Fremennik citizen[+]": "Any Fremennik citizen"
   },
-  "MonstersPlus": {
+  "monstersPlus": {
     "Aberrant spectre[+]": ["Aberrant spectre", "Deviant spectre"],
     "Bloodveld[+]": ["Bloodveld", "Mutated Bloodveld"],
     "Citizen[+]": ["Man", "Drunken man", "Hengel", "Cuffs", "Narf", "Jeff", "Rusty", "Woman", "Anja", "Woman (East Ardougne)", "Citizen (Varlamore)", "Tourist"],
@@ -1294,9 +1294,10 @@
     "ZombieDraynorSewers[+]": ["Zombie#Armed", "Zombie#Unarmed"],
     "WerewolfHuman[+]": ["Alexis", "Boris", "Eduard", "Galina", "Georgy", "Imre", "Irina", "Joseph", "Ksenia", "Lev", "Liliya", "Milla", "Nikita", "Nikolai", "Sofiya", "Svetlana", "Vera", "Yadviga", "Yuri", "Zoja"],
     "Terror dog[+]": ["Terror dog#Level 100", "Terror dog#Level 110"],
-    "Knight[+]": ["Knight of Ardougne", "Knight of Varlamore"]
+    "Knight[+]": ["Knight of Ardougne", "Knight of Varlamore"],
+    "DragonPickaxeDropper[+]": ["Artio", "Callisto", "Calvar'ion", "Chaos Elemental", "Kalphite Queen", "King Black Dragon", "Spindel", "Venenatis", "Vet'ion"]
   },
-  "MonstersPlusNames": {
+  "monstersPlusNames": {
     "Aberrant spectre[+]": "Any aberrant spectre",
     "Bloodveld[+]": "Any bloodveld",
     "Citizen[+]": "Any pickpocketable citizen",
@@ -1322,9 +1323,10 @@
     "ZombieDraynorSewers[+]": "Any zombie in the Draynor Sewers",
     "WerewolfHuman[+]": "Any human form of a werewolf",
     "Terror dog[+]": "Any terror dog",
-    "Knight[+]": "Any pickpocketable knight"
+    "Knight[+]": "Any pickpocketable knight",
+    "DragonPickaxeDropper[+]": "Any monster that drops the dragon pickaxe"
   },
-  "NpcsPlus": {
+  "npcsPlus": {
     "Citizen[+]": ["Man", "Drunken man", "Hengel", "Cuffs", "Narf", "Jeff", "Rusty", "Woman", "Anja", "Woman (East Ardougne)", "Citizen (Varlamore)", "Tourist"],
     "Elf[+]": ["Arvel", "Goreu", "Kelyn", "Mawrth", "Anaire", "Aranwe", "Aredhel", "Caranthir", "Celebrian", "Celegorm", "Cirdan", "Curufin", "Earwen", "Edrahil", "Elenwe", "Elladan", "Enel", "Erestor", "Enerdhil", "Enelye", "Feanor", "Findis", "Finduilas", "Fingolfin", "Fingon", "Galathil", "Gelmir", "Glorfindel", "Guilin", "Hendor (elf)", "Idril", "Imin", "Iminye", "Indis", "Ingwe", "Ingwion", "Lenwe", "Lindir", "Maeglin", "Mahtan", "Miriel", "Mithrellas", "Nellas", "Nerdanel", "Nimloth", "Oropher", "Orophin", "Saeros", "Salgant", "Tatie", "Thingol", "Turgon", "Vaire"],
     "ElfLletya[+]": ["Arvel", "Goreu", "Kelyn", "Mawrth"],
@@ -1342,7 +1344,7 @@
     "ExpertHunter[+]": ["Guild Hunter Aco (Expert)", "Guild Hunter Teco (Expert)"],
     "PointSlayerMasters[+]": ["Mazchna", "Vannaka", "Chaeldar", "Nieve", "Duradel", "Konar quo Maten", "Krystilia"]
   },
-  "NpcsPlusNames": {
+  "npcsPlusNames": {
     "Citizen[+]": "Any pickpocketable citizen",
     "Elf[+]": "Any pickpocketable elf",
     "ElfLletya[+]": "Any Lletya pickpocketable elf",
@@ -1360,7 +1362,7 @@
     "ExpertHunter[+]": "Any expert guild hunter",
     "PointSlayerMasters[+]": "Any point-giving slayer master"
   },
-  "ObjectsPlus": {
+  "objectsPlus": {
     "Adamantite[+]": ["Adamantite rocks", "Adamantite vein"],
     "Anvil[+]": ["Anvil"],
     "Baker's stall[+]": ["Baker's stall", "Baker's Stall"],
@@ -1398,7 +1400,7 @@
     "ForesterFire[+]": ["Forester's Campfire", "Fire#Forester's"],
     "Coop[+]": ["Coop", "Chicken coop"]
   },
-  "OobjectsPlusNames": {
+  "objectsPlusNames": {
     "Adamantite[+]": "Any adamantite rock",
     "Anvil[+]": "Any anvil",
     "Baker's stall[+]": "Any baker's stall",
@@ -1436,7 +1438,7 @@
     "ForesterFire[+]": "Any fire that logs can be burned on",
     "Coop[+]": "Any searchable coop"
   },
-  "RangedItems": {
+  "rangedItems": {
     "Iron thrownaxe": 1,
     "Iron knife": 1,
     "Iron dart": 1,
@@ -1520,7 +1522,7 @@
     "Venator bow": 80,
     "Scorching bow": 77
   },
-  "TasksPlus": {
+  "tasksPlus": {
     "KaramjaEasy7[+]": ["Catch ~|raw shrimps|~", "Catch ~|raw anchovies|~", "Catch a ~|raw herring|~", "Catch a ~|raw sardine|~", "Catch a ~|raw lobster|~", "Catch a ~|raw tuna|~", "Catch a ~|raw swordfish|~"],
     "KaramjaMedium13[+]": ["Grow an ~|apple tree|~", "Grow a ~|banana tree|~", "Grow an ~|orange tree|~", "Grow a ~|curry tree|~", "Grow a ~|pineapple plant|~", "Grow a ~|papaya tree|~", "Grow a ~|palm tree|~", "Grow a ~|dragonfruit tree|~"],
     "MorytaniaElite2[+]": ["Burn ~|magic pyre logs|~", "Burn ~|redwood pyre logs|~"],
@@ -1594,7 +1596,7 @@
     "WildernessPirateAccess[+]": ["Access wilderness pirates", "Access wilderness zombie pirates"],
     "ConstructBed[+]": ["Build a ~|wooden bed|~", "Build an ~|oak bed|~", "Build a ~|large oak bed|~", "Build a ~|teak bed|~", "Build a ~|large teak bed|~", "Build a ~|4-poster|~", "Build a ~|gilded 4-poster|~"]
   },
-  "ForceTalisman": {
+  "forceTalisman": {
     "Nature talisman": {
       "Abyssal demon": {
         "Catacombs of Kourend": true
@@ -1671,7 +1673,147 @@
     },
     "Chaos talisman": {}
   },
-  "Tools": {
+  "telegrabSpawns": {
+    "Beer": {
+      "Old School Museum": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Brass necklace": {
+      "Varrock West Bank#Basement": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Candle": {
+      "7224-1": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Cheese": {
+      "13363": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Coins": {
+      "12859-2": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Feather": {
+      "6968-1": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Gold bar": {
+      "Corsair Cove Dungeon#South": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ],
+      "Varrock West Bank#Basement": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Gold necklace": {
+      "Corsair Cove Dungeon#South": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ],
+      "Varrock West Bank#Basement": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Gold ore": {
+      "Varrock West Bank#Basement": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Iron scimitar": {
+      "4404": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ],
+      "5686-1": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Jug": {
+      "6961-1": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Leather": {
+      "5944-1": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Nature rune": {
+      "10554": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ],
+      "13116": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Papyrus": {
+      "7224-1": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Snape grass": {
+      "6961-1": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Spade": {
+      "Slayer Tower#Basement": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Teak plank": {
+      "Prifddinas": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Tinderbox": {
+      "6961-1": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    },
+    "Wine of zamorak": {
+      "11574-2": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ],
+      "11835": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ],
+      "Deep Wilderness Dungeon": [{
+        "Cast ~|telekinetic grab|~": "Magic"
+      }
+      ]
+    }
+  },
+  "tools": {
     "Ammo mould": true,
     "Amulet mould": true,
     "Barb-tail harpoon": true,
@@ -1771,7 +1913,7 @@
     "Filled plant pot": true,
     "Plant cure": true
   },
-  "MagicTools": {
+  "magicTools": {
     "Zenyte ring": true,
     "Zenyte necklace": true,
     "Zenyte bracelet": true,
@@ -1814,7 +1956,7 @@
     "Opal amulet (u)": true,
     "Wool": true
   },
-  "BossLogs": {
+  "bossLogs": {
     "Chest (Barrows)": true,
     "Reward Chest (The Gauntlet)": true,
     "Theatre of Blood": true,
@@ -1825,7 +1967,7 @@
     "Lunar Chest": true,
     "Rewards Chest (Fortis Colosseum)": true
   },
-  "BossMonsters": {
+  "bossMonsters": {
     "Grotesque Guardians": true,
     "Kraken": true,
     "Thermonuclear smoke devil": true,
@@ -1880,7 +2022,7 @@
     "Vardorvis": true,
     "The Whisperer": true
   },
-  "MinigameShops": {
+  "minigameShops": {
     "Agility Arena Store": true,
     "Castle Wars Ticket Exchange": true,
     "Mysterious Hallowed Goods": true,
@@ -1895,7 +2037,7 @@
     "PvP Arena Rewards": true,
     "Bounty Hunter Store": true
   },
-  "AmmoTools": {
+  "ammoTools": {
     "Bronze arrow": {
       "Shortbow": true,
       "Longbow": true,
@@ -3569,7 +3711,7 @@
       "Eclipse atlatl": true
     }
   },
-  "SlayerTasks": {
+  "slayerTasks": {
     "Aberrant spectres": {
       "Aberrant spectre": true,
       "Deviant spectre": true
@@ -4280,7 +4422,7 @@
       "Zygomite#Level 86": true
     }
   },
-  "BoostItems": {
+  "boostItems": {
     "Agility": {
       "Elven dawn": 1,
       "Sunbeam ale": 1,

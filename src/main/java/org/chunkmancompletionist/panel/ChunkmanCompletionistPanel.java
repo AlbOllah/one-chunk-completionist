@@ -50,8 +50,12 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
     private final ImageIcon backlogIcon = new ImageIcon(ImageUtil.loadImageResource(TimeTrackingPlugin.class, "lap_icon.png"));
     private final ImageIcon infoIcon = new ImageIcon(ImageUtil.loadImageResource(InfoPlugin.class, "info_icon.png"));
 
-    private MaterialTab currentTab;
+    private MaterialTab startTab;
+    private MaterialTab infoTab;
     private boolean shouldForceReload;
+
+    @Inject private ChunkMapWindow mapWindow;
+    @Inject private ChunkTaskCalculator calculator;
 
     @Inject
     ChunkmanCompletionistPanel(ChunkmanCompletionist chunkmanCompletionist, SkillIconManager iconManager) {
@@ -102,20 +106,30 @@ public class ChunkmanCompletionistPanel extends PluginPanel {
         tab.setName(type.name());
         tab.setOnSelectEvent(() -> {
             completionist.openTab(type, shouldForceReload);
-            currentTab = tab;
             shouldForceReload = false;
+
+            if (type == ChunkmanTabType.CHUNK) {
+                mapWindow.setVisible(true);
+            }
 
             return true;
         });
 
+        if(type == ChunkmanTabType.TASKS) {
+            startTab = tab;
+        } else if(type == ChunkmanTabType.INFO) {
+            infoTab = tab;
+        }
+
         return tab;
     }
 
-    public void reload() {
-        if(currentTab != null) {
-            shouldForceReload = true;
-            SwingUtilities.invokeLater(() -> tabGroup.select(currentTab));
-        }
+    public void reload(boolean isLoggedIn) {
+        shouldForceReload = true;
+        if(isLoggedIn)
+            SwingUtilities.invokeLater(() -> tabGroup.select(startTab));
+        else
+            SwingUtilities.invokeLater(() -> tabGroup.select(infoTab));
     }
 
     public ChunkmanCompletionist getCompletionist() {

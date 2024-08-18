@@ -9,8 +9,15 @@ import net.runelite.api.ChatMessageType;
 import net.runelite.api.Client;
 import net.runelite.api.GameState;
 import net.runelite.api.events.GameStateChanged;
+import net.runelite.api.events.ClientTick;
+import net.runelite.api.worldmap.WorldMap;
+import net.runelite.api.worldmap.WorldMapIcon;
+import net.runelite.api.worldmap.WorldMapRegion;
+import net.runelite.api.worldmap.WorldMapRenderer;
 import net.runelite.client.config.ConfigManager;
+import net.runelite.client.eventbus.EventBus;
 import net.runelite.client.eventbus.Subscribe;
+import net.runelite.client.game.AgilityShortcut;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.plugins.hiscore.HiscorePlugin;
@@ -18,8 +25,10 @@ import net.runelite.client.ui.ClientToolbar;
 import net.runelite.client.ui.NavigationButton;
 import net.runelite.client.util.ImageUtil;
 import org.chunkmancompletionist.managers.ChunkTasksManager;
+import org.chunkmancompletionist.panel.ChunkMapWindow;
 import org.chunkmancompletionist.panel.ChunkmanCompletionistPanel;
-import org.chunkmancompletionist.types.ChunkInfo;
+import org.chunkmancompletionist.types.ChunkTaskCalculateMessage;
+import org.chunkmancompletionist.types.ChunkTaskCalculatorMessage;
 import org.chunkmancompletionist.types.ChunkmanTabType;
 
 import java.awt.image.BufferedImage;
@@ -37,6 +46,8 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 	@Inject private ClientToolbar clientToolbar;
 	@Inject private ChunkmanCompletionistConfig config;
 	@Inject private Provider<ChunkmanCompletionistPanel> uiPanel;
+	@Inject private Provider<ChunkMapWindow> mapWindow;
+	@Inject private Provider<ChunkTaskCalculator> calculator;
 	@Inject private ChunkTasksManager chunkTasksManager;
 	@Inject private ChunkmanCompletionist completionist;
 
@@ -67,17 +78,29 @@ public class ChunkmanCompletionistPlugin extends Plugin {
 
 	@Subscribe
 	public void onGameStateChanged(GameStateChanged gameStateChanged) {
+		log.info(gameStateChanged.toString());
 		if (gameStateChanged.getGameState() == GameState.LOGGED_IN) {
 			completionist.loadProfile();
-			completionist.openTab(ChunkmanTabType.SETTINGS, true);
+			uiPanel.get().reload(true);
 		} else if (gameStateChanged.getGameState() == GameState.LOGIN_SCREEN) {
 			completionist.unloadProfile();
+			uiPanel.get().reload(false);
 		}
+	}
+
+	@Subscribe
+	public void onChunkTaskCalculatorMessage(ChunkTaskCalculatorMessage event) {
+		mapWindow.get().react(event);
 	}
 
 	@Provides
 	ChunkmanCompletionistConfig provideConfig(ConfigManager configManager) {
 		return configManager.getConfig(ChunkmanCompletionistConfig.class);
+	}
+
+	@Subscribe
+	void onChunkTaskCalculateMessage(ChunkTaskCalculateMessage event) {
+		calculator.get().calculate(event);
 	}
 
 	private <T> T loadFromFile(String resourceName, TypeToken<T> tokenType) {

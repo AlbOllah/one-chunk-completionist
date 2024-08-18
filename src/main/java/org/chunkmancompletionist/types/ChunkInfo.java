@@ -22,8 +22,8 @@ public class ChunkInfo {
     public Map<String, String> quests = new HashMap<>();
     public Map<String, String> diaries = new HashMap<>();
     public Map<String, Map<String, Boolean>> clues = new HashMap<>();
-    public Map<String, List<String>> starRegions = new HashMap<>();
-    public Map<String, List<Map<String, String>>> mapOverlays = new HashMap<>();
+    public Map<String, ArrayList<String>> starRegions = new HashMap<>();
+    public Map<String, ArrayList<Map<String, String>>> mapOverlays = new HashMap<>();
     public Map<String, Map<String, Boolean>> shopItems = new HashMap<>();
     public Map<String, Map<String, Map<String, Map<String, String>>>> skillItems = new HashMap<>();
     public TaskUnlocks taskUnlocks = new TaskUnlocks();
@@ -33,9 +33,9 @@ public class ChunkInfo {
     public Map<String, Map<String, SlayerTask>> slayerMasterTasks = new HashMap<>();
     public Map<String, Map<String, Boolean>> searchTerms = new HashMap<>();
     public Map<String, Map<String, List<String>>> sections = new HashMap<>();
-    public List<String> walkableChunks = new ArrayList<>();
-    public List<String> walkableChunksF2P = new ArrayList<>();
-    public List<String> unnotingChunks = new ArrayList<>();
+    public ArrayList<String> walkableChunks = new ArrayList<>();
+    public ArrayList<String> walkableChunksF2P = new ArrayList<>();
+    public ArrayList<String> unnotingChunks = new ArrayList<>();
     public Map<String, Equipment> equipment = new HashMap<>();
 
     public void save() {
@@ -58,5 +58,46 @@ public class ChunkInfo {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    public Float getMonsterDropChance(String monster, String drop, String number) {
+        String chance = drops.getOrDefault(monster, new HashMap<>()).getOrDefault(drop, new HashMap<>()).getOrDefault(number, "");
+        if(chance.equals(""))
+            return 0f;
+
+        Float first = null;
+        Float second = null;
+        try {
+            if(chance.split("/")[0].replaceAll("~", "").equals("Always")) {
+                first = 1.0f;
+                second = 1.0f;
+            } else {
+                first = Float.parseFloat(chance.split("/")[0].replaceAll("~", ""));
+                second = Float.parseFloat(chance.split("/")[1]);
+            }
+        } catch (NumberFormatException e) {
+            e.printStackTrace();
+            return 0f;
+        }
+
+        return first / second;
+    }
+
+    public Float getDropTableChance(String drop, String item) {
+        String chance = codeItems.dropTables.getOrDefault(drop, new HashMap<>()).getOrDefault(item, "");
+        if(chance.equals(""))
+            return 0f;
+
+        Float first = null;
+        Float second = null;
+        try {
+            first = Float.parseFloat(chance.split("@")[0].split("/")[0].replaceAll("~", ""));
+            second = Float.parseFloat(chance.split("@")[0].split("/")[1]);
+        } catch (NumberFormatException e) {
+            e.printStackTrace();
+            return 0f;
+        }
+
+        return first / second;
     }
 }
